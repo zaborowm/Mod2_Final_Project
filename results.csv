@@ -1,0 +1,1225 @@
+;Match_ID;Unique_Team_ID;Unique_Team;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;TeamScores
+0;1491;1;Bayern Munich;2011-08-07;Bayern Munich;M'gladbach;0;1;A;0.0
+1;1094;1;Bayern Munich;2011-08-13;Wolfsburg;Bayern Munich;0;1;A;1.0
+2;1211;1;Bayern Munich;2011-08-20;Bayern Munich;Hamburg;5;0;H;5.0
+3;1104;1;Bayern Munich;2011-08-27;Kaiserslautern;Bayern Munich;0;3;A;3.0
+4;1197;1;Bayern Munich;2011-09-10;Bayern Munich;Freiburg;7;0;H;7.0
+5;1100;1;Bayern Munich;2011-09-18;Schalke 04;Bayern Munich;0;2;A;2.0
+6;1262;1;Bayern Munich;2011-09-24;Bayern Munich;Leverkusen;3;0;H;3.0
+7;1102;1;Bayern Munich;2011-10-01;Hoffenheim;Bayern Munich;0;0;D;0.0
+8;1401;1;Bayern Munich;2011-10-15;Bayern Munich;Hertha;4;0;H;4.0
+9;1101;1;Bayern Munich;2011-10-23;Hannover;Bayern Munich;2;1;H;1.0
+10;1293;1;Bayern Munich;2011-10-29;Bayern Munich;Nurnberg;4;0;H;4.0
+11;1106;1;Bayern Munich;2011-11-06;Augsburg;Bayern Munich;1;2;A;2.0
+12;1122;1;Bayern Munich;2011-11-19;Bayern Munich;Dortmund;0;1;A;0.0
+13;1095;1;Bayern Munich;2011-11-27;Mainz;Bayern Munich;3;2;H;2.0
+14;1335;1;Bayern Munich;2011-12-03;Bayern Munich;Werder Bremen;4;1;H;4.0
+15;1093;1;Bayern Munich;2011-12-11;Stuttgart;Bayern Munich;1;2;A;2.0
+16;1178;1;Bayern Munich;2011-12-16;Bayern Munich;FC Koln;3;0;H;3.0
+17;1097;1;Bayern Munich;2012-01-20;M'gladbach;Bayern Munich;3;1;H;1.0
+18;1481;1;Bayern Munich;2012-01-28;Bayern Munich;Wolfsburg;2;0;H;2.0
+19;1098;1;Bayern Munich;2012-02-04;Hamburg;Bayern Munich;1;1;D;1.0
+20;1235;1;Bayern Munich;2012-02-11;Bayern Munich;Kaiserslautern;2;0;H;2.0
+21;1096;1;Bayern Munich;2012-02-18;Freiburg;Bayern Munich;0;0;D;0.0
+22;1310;1;Bayern Munich;2012-02-26;Bayern Munich;Schalke 04;2;0;H;2.0
+23;1103;1;Bayern Munich;2012-03-03;Leverkusen;Bayern Munich;2;0;H;0.0
+24;1643;1;Bayern Munich;2012-03-10;Bayern Munich;Hoffenheim;7;1;H;7.0
+25;1105;1;Bayern Munich;2012-03-17;Hertha;Bayern Munich;0;6;A;6.0
+26;1364;1;Bayern Munich;2012-03-24;Bayern Munich;Hannover;2;1;H;2.0
+27;1092;1;Bayern Munich;2012-03-31;Nurnberg;Bayern Munich;0;1;A;1.0
+28;1623;1;Bayern Munich;2012-04-07;Bayern Munich;Augsburg;2;1;H;2.0
+29;1108;1;Bayern Munich;2012-04-11;Dortmund;Bayern Munich;1;0;H;0.0
+30;1428;1;Bayern Munich;2012-04-14;Bayern Munich;Mainz;0;0;D;0.0
+31;1099;1;Bayern Munich;2012-04-21;Werder Bremen;Bayern Munich;1;2;A;2.0
+32;1324;1;Bayern Munich;2012-04-28;Bayern Munich;Stuttgart;2;0;H;2.0
+33;1107;1;Bayern Munich;2012-05-05;FC Koln;Bayern Munich;1;4;A;4.0
+34;1219;2;Dortmund;2011-08-05;Dortmund;Hamburg;3;1;H;3.0
+35;1113;2;Dortmund;2011-08-13;Hoffenheim;Dortmund;1;0;H;0.0
+36;1295;2;Dortmund;2011-08-20;Dortmund;Nurnberg;2;0;H;2.0
+37;1109;2;Dortmund;2011-08-27;Leverkusen;Dortmund;0;0;D;0.0
+38;1407;2;Dortmund;2011-09-10;Dortmund;Hertha;1;2;A;1.0
+39;1118;2;Dortmund;2011-09-18;Hannover;Dortmund;2;1;H;1.0
+40;1124;2;Dortmund;2011-09-24;Mainz;Dortmund;1;2;A;2.0
+41;1634;2;Dortmund;2011-10-01;Dortmund;Augsburg;4;0;H;4.0
+42;1123;2;Dortmund;2011-10-14;Werder Bremen;Dortmund;0;2;A;2.0
+43;1179;2;Dortmund;2011-10-22;Dortmund;FC Koln;5;0;H;5.0
+44;1114;2;Dortmund;2011-10-29;Stuttgart;Dortmund;1;1;D;1.0
+45;1468;2;Dortmund;2011-11-05;Dortmund;Wolfsburg;5;1;H;5.0
+46;1122;2;Dortmund;2011-11-19;Bayern Munich;Dortmund;0;1;A;1.0
+47;1304;2;Dortmund;2011-11-26;Dortmund;Schalke 04;2;0;H;2.0
+48;1116;2;Dortmund;2011-12-03;M'gladbach;Dortmund;1;1;D;1.0
+49;1233;2;Dortmund;2011-12-11;Dortmund;Kaiserslautern;1;1;D;1.0
+50;1110;2;Dortmund;2011-12-17;Freiburg;Dortmund;1;4;A;4.0
+51;1115;2;Dortmund;2012-01-22;Hamburg;Dortmund;1;5;A;5.0
+52;1637;2;Dortmund;2012-01-28;Dortmund;Hoffenheim;3;1;H;3.0
+53;1112;2;Dortmund;2012-02-03;Nurnberg;Dortmund;0;2;A;2.0
+54;1268;2;Dortmund;2012-02-11;Dortmund;Leverkusen;1;0;H;1.0
+55;1111;2;Dortmund;2012-02-18;Hertha;Dortmund;0;1;A;1.0
+56;1373;2;Dortmund;2012-02-26;Dortmund;Hannover;3;1;H;3.0
+57;1425;2;Dortmund;2012-03-03;Dortmund;Mainz;2;1;H;2.0
+58;1120;2;Dortmund;2012-03-10;Augsburg;Dortmund;0;0;D;0.0
+59;1333;2;Dortmund;2012-03-17;Dortmund;Werder Bremen;1;0;H;1.0
+60;1119;2;Dortmund;2012-03-25;FC Koln;Dortmund;1;6;A;6.0
+61;1317;2;Dortmund;2012-03-30;Dortmund;Stuttgart;4;4;D;4.0
+62;1121;2;Dortmund;2012-04-07;Wolfsburg;Dortmund;1;3;A;3.0
+63;1108;2;Dortmund;2012-04-11;Dortmund;Bayern Munich;1;0;H;1.0
+64;1117;2;Dortmund;2012-04-14;Schalke 04;Dortmund;1;2;A;2.0
+65;1492;2;Dortmund;2012-04-21;Dortmund;M'gladbach;2;0;H;2.0
+66;1125;2;Dortmund;2012-04-28;Kaiserslautern;Dortmund;2;5;A;5.0
+67;1207;2;Dortmund;2012-05-05;Dortmund;Freiburg;4;0;H;4.0
+68;1276;3;Leverkusen;2011-08-07;Mainz;Leverkusen;2;0;H;0.0
+69;1343;3;Leverkusen;2011-08-14;Leverkusen;Werder Bremen;1;0;H;1.0
+70;1278;3;Leverkusen;2011-08-20;Stuttgart;Leverkusen;0;1;A;1.0
+71;1109;3;Leverkusen;2011-08-27;Leverkusen;Dortmund;0;0;D;0.0
+72;1273;3;Leverkusen;2011-09-09;Augsburg;Leverkusen;1;4;A;4.0
+73;1188;3;Leverkusen;2011-09-17;Leverkusen;FC Koln;1;4;A;1.0
+74;1262;3;Leverkusen;2011-09-24;Bayern Munich;Leverkusen;3;0;H;0.0
+75;1469;3;Leverkusen;2011-10-01;Leverkusen;Wolfsburg;3;1;H;3.0
+76;1274;3;Leverkusen;2011-10-15;M'gladbach;Leverkusen;2;2;D;2.0
+77;1305;3;Leverkusen;2011-10-23;Leverkusen;Schalke 04;0;1;A;0.0
+78;1277;3;Leverkusen;2011-10-28;Freiburg;Leverkusen;0;1;A;1.0
+79;1226;3;Leverkusen;2011-11-05;Leverkusen;Hamburg;2;2;D;2.0
+80;1265;3;Leverkusen;2011-11-18;Kaiserslautern;Leverkusen;0;2;A;2.0
+81;1263;3;Leverkusen;2011-11-26;Hertha;Leverkusen;3;3;D;3.0
+82;1640;3;Leverkusen;2011-12-02;Leverkusen;Hoffenheim;2;0;H;2.0
+83;1275;3;Leverkusen;2011-12-10;Hannover;Leverkusen;0;0;D;0.0
+84;1284;3;Leverkusen;2011-12-17;Leverkusen;Nurnberg;0;3;A;0.0
+85;1422;3;Leverkusen;2012-01-22;Leverkusen;Mainz;3;2;H;3.0
+86;1272;3;Leverkusen;2012-01-28;Werder Bremen;Leverkusen;1;1;D;1.0
+87;1318;3;Leverkusen;2012-02-04;Leverkusen;Stuttgart;2;2;D;2.0
+88;1268;3;Leverkusen;2012-02-11;Dortmund;Leverkusen;1;0;H;0.0
+89;1631;3;Leverkusen;2012-02-18;Leverkusen;Augsburg;4;1;H;4.0
+90;1269;3;Leverkusen;2012-02-25;FC Koln;Leverkusen;0;2;A;2.0
+91;1103;3;Leverkusen;2012-03-03;Leverkusen;Bayern Munich;2;0;H;2.0
+92;1271;3;Leverkusen;2012-03-10;Wolfsburg;Leverkusen;3;2;H;2.0
+93;1483;3;Leverkusen;2012-03-17;Leverkusen;M'gladbach;1;2;A;1.0
+94;1264;3;Leverkusen;2012-03-24;Schalke 04;Leverkusen;2;0;H;0.0
+95;1206;3;Leverkusen;2012-03-31;Leverkusen;Freiburg;0;2;A;0.0
+96;1267;3;Leverkusen;2012-04-08;Hamburg;Leverkusen;1;1;D;1.0
+97;1234;3;Leverkusen;2012-04-11;Leverkusen;Kaiserslautern;3;1;H;3.0
+98;1410;3;Leverkusen;2012-04-14;Leverkusen;Hertha;3;3;D;3.0
+99;1266;3;Leverkusen;2012-04-21;Hoffenheim;Leverkusen;0;1;A;1.0
+100;1372;3;Leverkusen;2012-04-28;Leverkusen;Hannover;1;0;H;1.0
+101;1270;3;Leverkusen;2012-05-05;Nurnberg;Leverkusen;1;4;A;4.0
+102;1311;5;Schalke 04;2011-08-06;Stuttgart;Schalke 04;3;0;H;0.0
+103;1180;5;Schalke 04;2011-08-13;Schalke 04;FC Koln;5;1;H;5.0
+104;1312;5;Schalke 04;2011-08-21;Mainz;Schalke 04;2;4;A;4.0
+105;1486;5;Schalke 04;2011-08-28;Schalke 04;M'gladbach;1;0;H;1.0
+106;1298;5;Schalke 04;2011-09-11;Wolfsburg;Schalke 04;2;1;H;1.0
+107;1100;5;Schalke 04;2011-09-18;Schalke 04;Bayern Munich;0;2;A;0.0
+108;1195;5;Schalke 04;2011-09-24;Schalke 04;Freiburg;4;2;H;4.0
+109;1309;5;Schalke 04;2011-10-02;Hamburg;Schalke 04;1;2;A;2.0
+110;1232;5;Schalke 04;2011-10-15;Schalke 04;Kaiserslautern;1;2;A;1.0
+111;1305;5;Schalke 04;2011-10-23;Leverkusen;Schalke 04;0;1;A;1.0
+112;1647;5;Schalke 04;2011-10-29;Schalke 04;Hoffenheim;3;1;H;3.0
+113;1300;5;Schalke 04;2011-11-06;Hannover;Schalke 04;2;2;D;2.0
+114;1289;5;Schalke 04;2011-11-19;Schalke 04;Nurnberg;4;0;H;4.0
+115;1304;5;Schalke 04;2011-11-26;Dortmund;Schalke 04;2;0;H;0.0
+116;1627;5;Schalke 04;2011-12-04;Schalke 04;Augsburg;3;1;H;3.0
+117;1303;5;Schalke 04;2011-12-09;Hertha;Schalke 04;1;2;A;2.0
+118;1346;5;Schalke 04;2011-12-17;Schalke 04;Werder Bremen;5;0;H;5.0
+119;1315;5;Schalke 04;2012-01-21;Schalke 04;Stuttgart;3;1;H;3.0
+120;1299;5;Schalke 04;2012-01-28;FC Koln;Schalke 04;1;4;A;4.0
+121;1431;5;Schalke 04;2012-02-04;Schalke 04;Mainz;1;1;D;1.0
+122;1308;5;Schalke 04;2012-02-11;M'gladbach;Schalke 04;3;0;H;0.0
+123;1472;5;Schalke 04;2012-02-19;Schalke 04;Wolfsburg;4;0;H;4.0
+124;1310;5;Schalke 04;2012-02-26;Bayern Munich;Schalke 04;2;0;H;0.0
+125;1302;5;Schalke 04;2012-03-03;Freiburg;Schalke 04;2;1;H;1.0
+126;1216;5;Schalke 04;2012-03-11;Schalke 04;Hamburg;3;1;H;3.0
+127;1306;5;Schalke 04;2012-03-18;Kaiserslautern;Schalke 04;1;4;A;4.0
+128;1264;5;Schalke 04;2012-03-24;Schalke 04;Leverkusen;2;0;H;2.0
+129;1296;5;Schalke 04;2012-04-01;Hoffenheim;Schalke 04;1;1;D;1.0
+130;1369;5;Schalke 04;2012-04-08;Schalke 04;Hannover;3;0;H;3.0
+131;1297;5;Schalke 04;2012-04-11;Nurnberg;Schalke 04;4;1;H;1.0
+132;1117;5;Schalke 04;2012-04-14;Schalke 04;Dortmund;1;2;A;1.0
+133;1307;5;Schalke 04;2012-04-22;Augsburg;Schalke 04;1;1;D;1.0
+134;1409;5;Schalke 04;2012-04-28;Schalke 04;Hertha;4;0;H;4.0
+135;1301;5;Schalke 04;2012-05-05;Werder Bremen;Schalke 04;2;3;A;3.0
+136;1491;6;M'gladbach;2011-08-07;Bayern Munich;M'gladbach;0;1;A;1.0
+137;1325;6;M'gladbach;2011-08-13;M'gladbach;Stuttgart;1;1;D;1.0
+138;1477;6;M'gladbach;2011-08-19;M'gladbach;Wolfsburg;4;1;H;4.0
+139;1486;6;M'gladbach;2011-08-28;Schalke 04;M'gladbach;1;0;H;0.0
+140;1236;6;M'gladbach;2011-09-10;M'gladbach;Kaiserslautern;1;0;H;1.0
+141;1488;6;M'gladbach;2011-09-17;Hamburg;M'gladbach;0;1;A;1.0
+142;1294;6;M'gladbach;2011-09-24;M'gladbach;Nurnberg;1;0;H;1.0
+143;1499;6;M'gladbach;2011-10-01;Freiburg;M'gladbach;1;0;H;0.0
+144;1274;6;M'gladbach;2011-10-15;M'gladbach;Leverkusen;2;2;D;2.0
+145;1484;6;M'gladbach;2011-10-22;Hoffenheim;M'gladbach;1;0;H;0.0
+146;1378;6;M'gladbach;2011-10-29;M'gladbach;Hannover;2;1;H;2.0
+147;1497;6;M'gladbach;2011-11-05;Hertha;M'gladbach;1;2;A;2.0
+148;1330;6;M'gladbach;2011-11-19;M'gladbach;Werder Bremen;5;0;H;5.0
+149;1498;6;M'gladbach;2011-11-25;FC Koln;M'gladbach;0;3;A;3.0
+150;1116;6;M'gladbach;2011-12-03;M'gladbach;Dortmund;1;1;D;1.0
+151;1493;6;M'gladbach;2011-12-10;Augsburg;M'gladbach;1;0;H;0.0
+152;1421;6;M'gladbach;2011-12-18;M'gladbach;Mainz;1;0;H;1.0
+153;1097;6;M'gladbach;2012-01-20;M'gladbach;Bayern Munich;3;1;H;3.0
+154;1496;6;M'gladbach;2012-01-29;Stuttgart;M'gladbach;0;3;A;3.0
+155;1489;6;M'gladbach;2012-02-04;Wolfsburg;M'gladbach;0;0;D;0.0
+156;1308;6;M'gladbach;2012-02-11;M'gladbach;Schalke 04;3;0;H;3.0
+157;1487;6;M'gladbach;2012-02-18;Kaiserslautern;M'gladbach;1;2;A;2.0
+158;1225;6;M'gladbach;2012-02-24;M'gladbach;Hamburg;1;1;D;1.0
+159;1495;6;M'gladbach;2012-03-04;Nurnberg;M'gladbach;1;0;H;0.0
+160;1196;6;M'gladbach;2012-03-10;M'gladbach;Freiburg;0;0;D;0.0
+161;1483;6;M'gladbach;2012-03-17;Leverkusen;M'gladbach;1;2;A;2.0
+162;1638;6;M'gladbach;2012-03-24;M'gladbach;Hoffenheim;1;2;A;1.0
+163;1490;6;M'gladbach;2012-04-01;Hannover;M'gladbach;2;1;H;1.0
+164;1402;6;M'gladbach;2012-04-07;M'gladbach;Hertha;0;0;D;0.0
+165;1494;6;M'gladbach;2012-04-10;Werder Bremen;M'gladbach;2;2;D;2.0
+166;1184;6;M'gladbach;2012-04-15;M'gladbach;FC Koln;3;0;H;3.0
+167;1492;6;M'gladbach;2012-04-21;Dortmund;M'gladbach;2;0;H;0.0
+168;1624;6;M'gladbach;2012-04-28;M'gladbach;Augsburg;0;0;D;0.0
+169;1485;6;M'gladbach;2012-05-05;Mainz;M'gladbach;0;3;A;3.0
+170;1466;7;Wolfsburg;2011-08-06;FC Koln;Wolfsburg;0;3;A;3.0
+171;1094;7;Wolfsburg;2011-08-13;Wolfsburg;Bayern Munich;0;1;A;0.0
+172;1477;7;Wolfsburg;2011-08-19;M'gladbach;Wolfsburg;4;1;H;1.0
+173;1482;7;Wolfsburg;2011-08-27;Freiburg;Wolfsburg;3;0;H;0.0
+174;1298;7;Wolfsburg;2011-09-11;Wolfsburg;Schalke 04;2;1;H;2.0
+175;1479;7;Wolfsburg;2011-09-17;Hoffenheim;Wolfsburg;3;1;H;1.0
+176;1242;7;Wolfsburg;2011-09-24;Wolfsburg;Kaiserslautern;1;0;H;1.0
+177;1469;7;Wolfsburg;2011-10-01;Leverkusen;Wolfsburg;3;1;H;1.0
+178;1285;7;Wolfsburg;2011-10-15;Wolfsburg;Nurnberg;2;1;H;2.0
+179;1470;7;Wolfsburg;2011-10-22;Hamburg;Wolfsburg;1;1;D;1.0
+180;1403;7;Wolfsburg;2011-10-29;Wolfsburg;Hertha;2;3;A;2.0
+181;1468;7;Wolfsburg;2011-11-05;Dortmund;Wolfsburg;5;1;H;1.0
+182;1365;7;Wolfsburg;2011-11-19;Wolfsburg;Hannover;4;1;H;4.0
+183;1473;7;Wolfsburg;2011-11-26;Augsburg;Wolfsburg;2;0;H;0.0
+184;1429;7;Wolfsburg;2011-12-03;Wolfsburg;Mainz;2;2;D;2.0
+185;1471;7;Wolfsburg;2011-12-10;Werder Bremen;Wolfsburg;4;1;H;1.0
+186;1313;7;Wolfsburg;2011-12-17;Wolfsburg;Stuttgart;1;0;H;1.0
+187;1192;7;Wolfsburg;2012-01-21;Wolfsburg;FC Koln;1;0;H;1.0
+188;1481;7;Wolfsburg;2012-01-28;Bayern Munich;Wolfsburg;2;0;H;0.0
+189;1489;7;Wolfsburg;2012-02-04;Wolfsburg;M'gladbach;0;0;D;0.0
+190;1201;7;Wolfsburg;2012-02-10;Wolfsburg;Freiburg;3;2;H;3.0
+191;1472;7;Wolfsburg;2012-02-19;Schalke 04;Wolfsburg;4;0;H;0.0
+192;1652;7;Wolfsburg;2012-02-25;Wolfsburg;Hoffenheim;1;2;A;1.0
+193;1467;7;Wolfsburg;2012-03-03;Kaiserslautern;Wolfsburg;0;0;D;0.0
+194;1271;7;Wolfsburg;2012-03-10;Wolfsburg;Leverkusen;3;2;H;3.0
+195;1478;7;Wolfsburg;2012-03-17;Nurnberg;Wolfsburg;1;3;A;3.0
+196;1220;7;Wolfsburg;2012-03-23;Wolfsburg;Hamburg;2;1;H;2.0
+197;1475;7;Wolfsburg;2012-03-31;Hertha;Wolfsburg;1;4;A;4.0
+198;1121;7;Wolfsburg;2012-04-07;Wolfsburg;Dortmund;1;3;A;1.0
+199;1480;7;Wolfsburg;2012-04-11;Hannover;Wolfsburg;2;0;H;0.0
+200;1632;7;Wolfsburg;2012-04-14;Wolfsburg;Augsburg;1;2;A;1.0
+201;1476;7;Wolfsburg;2012-04-20;Mainz;Wolfsburg;0;0;D;0.0
+202;1338;7;Wolfsburg;2012-04-28;Wolfsburg;Werder Bremen;3;1;H;3.0
+203;1474;7;Wolfsburg;2012-05-05;Stuttgart;Wolfsburg;3;2;H;2.0
+204;1466;8;FC Koln;2011-08-06;FC Koln;Wolfsburg;0;3;A;0.0
+205;1180;8;FC Koln;2011-08-13;Schalke 04;FC Koln;5;1;H;1.0
+206;1239;8;FC Koln;2011-08-20;FC Koln;Kaiserslautern;1;1;D;1.0
+207;1191;8;FC Koln;2011-08-27;Hamburg;FC Koln;3;4;A;4.0
+208;1290;8;FC Koln;2011-09-11;FC Koln;Nurnberg;1;2;A;1.0
+209;1188;8;FC Koln;2011-09-17;Leverkusen;FC Koln;1;4;A;4.0
+210;1644;8;FC Koln;2011-09-25;FC Koln;Hoffenheim;2;0;H;2.0
+211;1190;8;FC Koln;2011-10-01;Hertha;FC Koln;3;0;H;0.0
+212;1367;8;FC Koln;2011-10-16;FC Koln;Hannover;2;0;H;2.0
+213;1179;8;FC Koln;2011-10-22;Dortmund;FC Koln;5;0;H;0.0
+214;1626;8;FC Koln;2011-10-30;FC Koln;Augsburg;3;0;H;3.0
+215;1181;8;FC Koln;2011-11-05;Werder Bremen;FC Koln;3;2;H;2.0
+216;1498;8;FC Koln;2011-11-25;FC Koln;M'gladbach;0;3;A;0.0
+217;1177;8;FC Koln;2011-12-03;Stuttgart;FC Koln;2;2;D;2.0
+218;1205;8;FC Koln;2011-12-10;FC Koln;Freiburg;4;0;H;4.0
+219;1424;8;FC Koln;2011-12-13;FC Koln;Mainz;1;1;D;1.0
+220;1178;8;FC Koln;2011-12-16;Bayern Munich;FC Koln;3;0;H;0.0
+221;1192;8;FC Koln;2012-01-21;Wolfsburg;FC Koln;1;0;H;0.0
+222;1299;8;FC Koln;2012-01-28;FC Koln;Schalke 04;1;4;A;1.0
+223;1186;8;FC Koln;2012-02-05;Kaiserslautern;FC Koln;0;1;A;1.0
+224;1221;8;FC Koln;2012-02-12;FC Koln;Hamburg;0;1;A;0.0
+225;1185;8;FC Koln;2012-02-18;Nurnberg;FC Koln;2;1;H;1.0
+226;1269;8;FC Koln;2012-02-25;FC Koln;Leverkusen;0;2;A;0.0
+227;1187;8;FC Koln;2012-03-04;Hoffenheim;FC Koln;1;1;D;1.0
+228;1413;8;FC Koln;2012-03-10;FC Koln;Hertha;1;0;H;1.0
+229;1193;8;FC Koln;2012-03-18;Hannover;FC Koln;4;1;H;1.0
+230;1119;8;FC Koln;2012-03-25;FC Koln;Dortmund;1;6;A;1.0
+231;1189;8;FC Koln;2012-03-31;Augsburg;FC Koln;2;1;H;1.0
+232;1332;8;FC Koln;2012-04-07;FC Koln;Werder Bremen;1;1;D;1.0
+233;1183;8;FC Koln;2012-04-10;Mainz;FC Koln;4;0;H;0.0
+234;1184;8;FC Koln;2012-04-15;M'gladbach;FC Koln;3;0;H;0.0
+235;1328;8;FC Koln;2012-04-21;FC Koln;Stuttgart;1;1;D;1.0
+236;1182;8;FC Koln;2012-04-28;Freiburg;FC Koln;4;1;H;1.0
+237;1107;8;FC Koln;2012-05-05;FC Koln;Bayern Munich;1;4;A;1.0
+238;1648;9;Hoffenheim;2011-08-06;Hannover;Hoffenheim;2;1;H;1.0
+239;1113;9;Hoffenheim;2011-08-13;Hoffenheim;Dortmund;1;0;H;1.0
+240;1650;9;Hoffenheim;2011-08-20;Augsburg;Hoffenheim;0;2;A;2.0
+241;1345;9;Hoffenheim;2011-08-27;Hoffenheim;Werder Bremen;1;2;A;1.0
+242;1646;9;Hoffenheim;2011-09-10;Mainz;Hoffenheim;0;4;A;4.0
+243;1479;9;Hoffenheim;2011-09-17;Hoffenheim;Wolfsburg;3;1;H;3.0
+244;1644;9;Hoffenheim;2011-09-25;FC Koln;Hoffenheim;2;0;H;0.0
+245;1102;9;Hoffenheim;2011-10-01;Hoffenheim;Bayern Munich;0;0;D;0.0
+246;1641;9;Hoffenheim;2011-10-15;Stuttgart;Hoffenheim;2;0;H;0.0
+247;1484;9;Hoffenheim;2011-10-22;Hoffenheim;M'gladbach;1;0;H;1.0
+248;1647;9;Hoffenheim;2011-10-29;Schalke 04;Hoffenheim;3;1;H;1.0
+249;1238;9;Hoffenheim;2011-11-05;Hoffenheim;Kaiserslautern;1;1;D;1.0
+250;1636;9;Hoffenheim;2011-11-20;Hamburg;Hoffenheim;2;0;H;0.0
+251;1203;9;Hoffenheim;2011-11-26;Hoffenheim;Freiburg;1;1;D;1.0
+252;1640;9;Hoffenheim;2011-12-02;Leverkusen;Hoffenheim;2;0;H;0.0
+253;1649;9;Hoffenheim;2011-12-10;Nurnberg;Hoffenheim;0;2;A;2.0
+254;1414;9;Hoffenheim;2011-12-17;Hoffenheim;Hertha;1;1;D;1.0
+255;1375;9;Hoffenheim;2012-01-21;Hoffenheim;Hannover;0;0;D;0.0
+256;1637;9;Hoffenheim;2012-01-28;Dortmund;Hoffenheim;3;1;H;1.0
+257;1625;9;Hoffenheim;2012-02-04;Hoffenheim;Augsburg;2;2;D;2.0
+258;1639;9;Hoffenheim;2012-02-11;Werder Bremen;Hoffenheim;1;1;D;1.0
+259;1419;9;Hoffenheim;2012-02-17;Hoffenheim;Mainz;1;1;D;1.0
+260;1652;9;Hoffenheim;2012-02-25;Wolfsburg;Hoffenheim;1;2;A;2.0
+261;1187;9;Hoffenheim;2012-03-04;Hoffenheim;FC Koln;1;1;D;1.0
+262;1643;9;Hoffenheim;2012-03-10;Bayern Munich;Hoffenheim;7;1;H;1.0
+263;1321;9;Hoffenheim;2012-03-16;Hoffenheim;Stuttgart;1;2;A;1.0
+264;1638;9;Hoffenheim;2012-03-24;M'gladbach;Hoffenheim;1;2;A;2.0
+265;1296;9;Hoffenheim;2012-04-01;Hoffenheim;Schalke 04;1;1;D;1.0
+266;1642;9;Hoffenheim;2012-04-07;Kaiserslautern;Hoffenheim;1;2;A;2.0
+267;1212;9;Hoffenheim;2012-04-11;Hoffenheim;Hamburg;4;0;H;4.0
+268;1651;9;Hoffenheim;2012-04-15;Freiburg;Hoffenheim;0;0;D;0.0
+269;1266;9;Hoffenheim;2012-04-21;Hoffenheim;Leverkusen;0;1;A;0.0
+270;1283;9;Hoffenheim;2012-04-28;Hoffenheim;Nurnberg;2;3;A;2.0
+271;1645;9;Hoffenheim;2012-05-05;Hertha;Hoffenheim;3;1;H;1.0
+272;1292;10;Hertha;2011-08-06;Hertha;Nurnberg;0;1;A;0.0
+273;1405;10;Hertha;2011-08-13;Hamburg;Hertha;2;2;D;2.0
+274;1404;10;Hertha;2011-08-21;Hannover;Hertha;1;1;D;1.0
+275;1316;10;Hertha;2011-08-26;Hertha;Stuttgart;1;0;H;1.0
+276;1407;10;Hertha;2011-09-10;Dortmund;Hertha;1;2;A;2.0
+277;1629;10;Hertha;2011-09-17;Hertha;Augsburg;2;2;D;2.0
+278;1398;10;Hertha;2011-09-25;Werder Bremen;Hertha;2;1;H;1.0
+279;1190;10;Hertha;2011-10-01;Hertha;FC Koln;3;0;H;3.0
+280;1401;10;Hertha;2011-10-15;Bayern Munich;Hertha;4;0;H;0.0
+281;1426;10;Hertha;2011-10-22;Hertha;Mainz;0;0;D;0.0
+282;1403;10;Hertha;2011-10-29;Wolfsburg;Hertha;2;3;A;3.0
+283;1497;10;Hertha;2011-11-05;Hertha;M'gladbach;1;2;A;1.0
+284;1400;10;Hertha;2011-11-19;Freiburg;Hertha;2;2;D;2.0
+285;1263;10;Hertha;2011-11-26;Hertha;Leverkusen;3;3;D;3.0
+286;1411;10;Hertha;2011-12-03;Kaiserslautern;Hertha;1;1;D;1.0
+287;1303;10;Hertha;2011-12-09;Hertha;Schalke 04;1;2;A;1.0
+288;1414;10;Hertha;2011-12-17;Hoffenheim;Hertha;1;1;D;1.0
+289;1399;10;Hertha;2012-01-21;Nurnberg;Hertha;2;0;H;0.0
+290;1227;10;Hertha;2012-01-28;Hertha;Hamburg;1;2;A;1.0
+291;1377;10;Hertha;2012-02-04;Hertha;Hannover;0;1;A;0.0
+292;1406;10;Hertha;2012-02-11;Stuttgart;Hertha;5;0;H;0.0
+293;1111;10;Hertha;2012-02-18;Hertha;Dortmund;0;1;A;0.0
+294;1408;10;Hertha;2012-02-25;Augsburg;Hertha;3;0;H;0.0
+295;1336;10;Hertha;2012-03-03;Hertha;Werder Bremen;1;0;H;1.0
+296;1413;10;Hertha;2012-03-10;FC Koln;Hertha;1;0;H;0.0
+297;1105;10;Hertha;2012-03-17;Hertha;Bayern Munich;0;6;A;0.0
+298;1412;10;Hertha;2012-03-24;Mainz;Hertha;1;3;A;3.0
+299;1475;10;Hertha;2012-03-31;Hertha;Wolfsburg;1;4;A;1.0
+300;1402;10;Hertha;2012-04-07;M'gladbach;Hertha;0;0;D;0.0
+301;1208;10;Hertha;2012-04-10;Hertha;Freiburg;1;2;A;1.0
+302;1410;10;Hertha;2012-04-14;Leverkusen;Hertha;3;3;D;3.0
+303;1244;10;Hertha;2012-04-21;Hertha;Kaiserslautern;1;2;A;1.0
+304;1409;10;Hertha;2012-04-28;Schalke 04;Hertha;4;0;H;0.0
+305;1645;10;Hertha;2012-05-05;Hertha;Hoffenheim;3;1;H;3.0
+306;1276;11;Mainz;2011-08-07;Mainz;Leverkusen;2;0;H;2.0
+307;1417;11;Mainz;2011-08-13;Freiburg;Mainz;1;2;A;2.0
+308;1312;11;Mainz;2011-08-21;Mainz;Schalke 04;2;4;A;2.0
+309;1427;11;Mainz;2011-08-28;Hannover;Mainz;1;1;D;1.0
+310;1646;11;Mainz;2011-09-10;Mainz;Hoffenheim;0;4;A;0.0
+311;1430;11;Mainz;2011-09-17;Kaiserslautern;Mainz;3;1;H;1.0
+312;1124;11;Mainz;2011-09-24;Mainz;Dortmund;1;2;A;1.0
+313;1416;11;Mainz;2011-10-01;Nurnberg;Mainz;3;3;D;3.0
+314;1630;11;Mainz;2011-10-15;Mainz;Augsburg;0;1;A;0.0
+315;1426;11;Mainz;2011-10-22;Hertha;Mainz;0;0;D;0.0
+316;1344;11;Mainz;2011-10-29;Mainz;Werder Bremen;1;3;A;1.0
+317;1314;11;Mainz;2011-11-04;Mainz;Stuttgart;3;1;H;3.0
+318;1095;11;Mainz;2011-11-27;Mainz;Bayern Munich;3;2;H;3.0
+319;1429;11;Mainz;2011-12-03;Wolfsburg;Mainz;2;2;D;2.0
+320;1213;11;Mainz;2011-12-10;Mainz;Hamburg;0;0;D;0.0
+321;1424;11;Mainz;2011-12-13;FC Koln;Mainz;1;1;D;1.0
+322;1421;11;Mainz;2011-12-18;M'gladbach;Mainz;1;0;H;0.0
+323;1422;11;Mainz;2012-01-22;Leverkusen;Mainz;3;2;H;2.0
+324;1209;11;Mainz;2012-01-29;Mainz;Freiburg;3;1;H;3.0
+325;1431;11;Mainz;2012-02-04;Schalke 04;Mainz;1;1;D;1.0
+326;1374;11;Mainz;2012-02-11;Mainz;Hannover;1;1;D;1.0
+327;1419;11;Mainz;2012-02-17;Hoffenheim;Mainz;1;1;D;1.0
+328;1230;11;Mainz;2012-02-25;Mainz;Kaiserslautern;4;0;H;4.0
+329;1425;11;Mainz;2012-03-03;Dortmund;Mainz;2;1;H;1.0
+330;1281;11;Mainz;2012-03-10;Mainz;Nurnberg;2;1;H;2.0
+331;1415;11;Mainz;2012-03-17;Augsburg;Mainz;2;1;H;1.0
+332;1412;11;Mainz;2012-03-24;Mainz;Hertha;1;3;A;1.0
+333;1420;11;Mainz;2012-03-31;Werder Bremen;Mainz;0;3;A;3.0
+334;1423;11;Mainz;2012-04-07;Stuttgart;Mainz;4;1;H;1.0
+335;1183;11;Mainz;2012-04-10;Mainz;FC Koln;4;0;H;4.0
+336;1428;11;Mainz;2012-04-14;Bayern Munich;Mainz;0;0;D;0.0
+337;1476;11;Mainz;2012-04-20;Mainz;Wolfsburg;0;0;D;0.0
+338;1418;11;Mainz;2012-04-28;Hamburg;Mainz;0;0;D;0.0
+339;1485;11;Mainz;2012-05-05;Mainz;M'gladbach;0;3;A;0.0
+340;1219;12;Hamburg;2011-08-05;Dortmund;Hamburg;3;1;H;1.0
+341;1405;12;Hamburg;2011-08-13;Hamburg;Hertha;2;2;D;2.0
+342;1211;12;Hamburg;2011-08-20;Bayern Munich;Hamburg;5;0;H;0.0
+343;1191;12;Hamburg;2011-08-27;Hamburg;FC Koln;3;4;A;3.0
+344;1218;12;Hamburg;2011-09-10;Werder Bremen;Hamburg;2;0;H;0.0
+345;1488;12;Hamburg;2011-09-17;Hamburg;M'gladbach;0;1;A;0.0
+346;1224;12;Hamburg;2011-09-23;Stuttgart;Hamburg;1;2;A;2.0
+347;1309;12;Hamburg;2011-10-02;Hamburg;Schalke 04;1;2;A;1.0
+348;1214;12;Hamburg;2011-10-16;Freiburg;Hamburg;1;2;A;2.0
+349;1470;12;Hamburg;2011-10-22;Hamburg;Wolfsburg;1;1;D;1.0
+350;1231;12;Hamburg;2011-10-30;Hamburg;Kaiserslautern;1;1;D;1.0
+351;1226;12;Hamburg;2011-11-05;Leverkusen;Hamburg;2;2;D;2.0
+352;1636;12;Hamburg;2011-11-20;Hamburg;Hoffenheim;2;0;H;2.0
+353;1222;12;Hamburg;2011-11-26;Hannover;Hamburg;1;1;D;1.0
+354;1288;12;Hamburg;2011-12-04;Hamburg;Nurnberg;2;0;H;2.0
+355;1213;12;Hamburg;2011-12-10;Mainz;Hamburg;0;0;D;0.0
+356;1622;12;Hamburg;2011-12-17;Hamburg;Augsburg;1;1;D;1.0
+357;1115;12;Hamburg;2012-01-22;Hamburg;Dortmund;1;5;A;1.0
+358;1227;12;Hamburg;2012-01-28;Hertha;Hamburg;1;2;A;2.0
+359;1098;12;Hamburg;2012-02-04;Hamburg;Bayern Munich;1;1;D;1.0
+360;1221;12;Hamburg;2012-02-12;FC Koln;Hamburg;0;1;A;1.0
+361;1341;12;Hamburg;2012-02-18;Hamburg;Werder Bremen;1;3;A;1.0
+362;1225;12;Hamburg;2012-02-24;M'gladbach;Hamburg;1;1;D;1.0
+363;1323;12;Hamburg;2012-03-03;Hamburg;Stuttgart;0;4;A;0.0
+364;1216;12;Hamburg;2012-03-11;Schalke 04;Hamburg;3;1;H;1.0
+365;1200;12;Hamburg;2012-03-17;Hamburg;Freiburg;1;3;A;1.0
+366;1220;12;Hamburg;2012-03-23;Wolfsburg;Hamburg;2;1;H;1.0
+367;1215;12;Hamburg;2012-03-31;Kaiserslautern;Hamburg;0;1;A;1.0
+368;1267;12;Hamburg;2012-04-08;Hamburg;Leverkusen;1;1;D;1.0
+369;1212;12;Hamburg;2012-04-11;Hoffenheim;Hamburg;4;0;H;0.0
+370;1366;12;Hamburg;2012-04-14;Hamburg;Hannover;1;0;H;1.0
+371;1217;12;Hamburg;2012-04-21;Nurnberg;Hamburg;1;1;D;1.0
+372;1418;12;Hamburg;2012-04-28;Hamburg;Mainz;0;0;D;0.0
+373;1223;12;Hamburg;2012-05-05;Augsburg;Hamburg;1;0;H;0.0
+374;1237;13;Werder Bremen;2011-08-06;Werder Bremen;Kaiserslautern;2;0;H;2.0
+375;1343;13;Werder Bremen;2011-08-14;Leverkusen;Werder Bremen;1;0;H;0.0
+376;1199;13;Werder Bremen;2011-08-20;Werder Bremen;Freiburg;5;3;H;5.0
+377;1345;13;Werder Bremen;2011-08-27;Hoffenheim;Werder Bremen;1;2;A;2.0
+378;1218;13;Werder Bremen;2011-09-10;Werder Bremen;Hamburg;2;0;H;2.0
+379;1340;13;Werder Bremen;2011-09-17;Nurnberg;Werder Bremen;1;1;D;1.0
+380;1398;13;Werder Bremen;2011-09-25;Werder Bremen;Hertha;2;1;H;2.0
+381;1331;13;Werder Bremen;2011-10-02;Hannover;Werder Bremen;3;2;H;2.0
+382;1123;13;Werder Bremen;2011-10-14;Werder Bremen;Dortmund;0;2;A;0.0
+383;1342;13;Werder Bremen;2011-10-21;Augsburg;Werder Bremen;1;1;D;1.0
+384;1344;13;Werder Bremen;2011-10-29;Mainz;Werder Bremen;1;3;A;3.0
+385;1181;13;Werder Bremen;2011-11-05;Werder Bremen;FC Koln;3;2;H;3.0
+386;1330;13;Werder Bremen;2011-11-19;M'gladbach;Werder Bremen;5;0;H;0.0
+387;1329;13;Werder Bremen;2011-11-27;Werder Bremen;Stuttgart;2;0;H;2.0
+388;1335;13;Werder Bremen;2011-12-03;Bayern Munich;Werder Bremen;4;1;H;1.0
+389;1471;13;Werder Bremen;2011-12-10;Werder Bremen;Wolfsburg;4;1;H;4.0
+390;1346;13;Werder Bremen;2011-12-17;Schalke 04;Werder Bremen;5;0;H;0.0
+391;1337;13;Werder Bremen;2012-01-21;Kaiserslautern;Werder Bremen;0;0;D;0.0
+392;1272;13;Werder Bremen;2012-01-28;Werder Bremen;Leverkusen;1;1;D;1.0
+393;1339;13;Werder Bremen;2012-02-05;Freiburg;Werder Bremen;2;2;D;2.0
+394;1639;13;Werder Bremen;2012-02-11;Werder Bremen;Hoffenheim;1;1;D;1.0
+395;1341;13;Werder Bremen;2012-02-18;Hamburg;Werder Bremen;1;3;A;3.0
+396;1282;13;Werder Bremen;2012-02-25;Werder Bremen;Nurnberg;0;1;A;0.0
+397;1336;13;Werder Bremen;2012-03-03;Hertha;Werder Bremen;1;0;H;0.0
+398;1376;13;Werder Bremen;2012-03-11;Werder Bremen;Hannover;3;0;H;3.0
+399;1333;13;Werder Bremen;2012-03-17;Dortmund;Werder Bremen;1;0;H;0.0
+400;1620;13;Werder Bremen;2012-03-24;Werder Bremen;Augsburg;1;1;D;1.0
+401;1420;13;Werder Bremen;2012-03-31;Werder Bremen;Mainz;0;3;A;0.0
+402;1332;13;Werder Bremen;2012-04-07;FC Koln;Werder Bremen;1;1;D;1.0
+403;1494;13;Werder Bremen;2012-04-10;Werder Bremen;M'gladbach;2;2;D;2.0
+404;1334;13;Werder Bremen;2012-04-13;Stuttgart;Werder Bremen;4;1;H;1.0
+405;1099;13;Werder Bremen;2012-04-21;Werder Bremen;Bayern Munich;1;2;A;1.0
+406;1338;13;Werder Bremen;2012-04-28;Wolfsburg;Werder Bremen;3;1;H;1.0
+407;1301;13;Werder Bremen;2012-05-05;Werder Bremen;Schalke 04;2;3;A;2.0
+408;1167;14;Ein Frankfurt;2011-07-15;Greuther Furth;Ein Frankfurt;2;3;A;3.0
+409;1463;14;Ein Frankfurt;2011-07-25;Ein Frankfurt;St Pauli;1;1;D;1.0
+410;1171;14;Ein Frankfurt;2011-08-07;Braunschweig;Ein Frankfurt;0;3;A;3.0
+411;1701;14;Ein Frankfurt;2011-08-15;Ein Frankfurt;Fortuna Dusseldorf;1;1;D;1.0
+412;1163;14;Ein Frankfurt;2011-08-21;Frankfurt FSV;Ein Frankfurt;0;4;A;4.0
+413;1608;14;Ein Frankfurt;2011-08-28;Ein Frankfurt;Paderborn;0;0;D;0.0
+414;1161;14;Ein Frankfurt;2011-09-10;Cottbus;Ein Frankfurt;3;3;D;3.0
+415;1393;14;Ein Frankfurt;2011-09-16;Ein Frankfurt;Hansa Rostock;4;1;H;4.0
+416;1164;14;Ein Frankfurt;2011-09-26;Dresden;Ein Frankfurt;1;4;A;4.0
+417;1565;14;Ein Frankfurt;2011-09-30;Ein Frankfurt;Union Berlin;3;1;H;3.0
+418;1162;14;Ein Frankfurt;2011-10-14;Bochum;Ein Frankfurt;0;2;A;2.0
+419;1151;14;Ein Frankfurt;2011-10-23;Ein Frankfurt;Duisburg;3;0;H;3.0
+420;1169;14;Ein Frankfurt;2011-10-30;Ingolstadt;Ein Frankfurt;1;1;D;1.0
+421;1160;14;Ein Frankfurt;2011-11-07;Erzgebirge Aue;Ein Frankfurt;1;2;A;2.0
+422;1534;14;Ein Frankfurt;2011-11-20;Ein Frankfurt;Aachen;4;3;H;4.0
+423;1175;14;Ein Frankfurt;2011-11-26;Munich 1860;Ein Frankfurt;2;1;H;1.0
+424;1250;14;Ein Frankfurt;2011-12-03;Ein Frankfurt;Karlsruhe;2;0;H;2.0
+425;1532;14;Ein Frankfurt;2011-12-12;Ein Frankfurt;Greuther Furth;0;0;D;0.0
+426;1173;14;Ein Frankfurt;2011-12-19;St Pauli;Ein Frankfurt;2;0;H;0.0
+427;1580;14;Ein Frankfurt;2012-02-05;Ein Frankfurt;Braunschweig;2;1;H;2.0
+428;1170;14;Ein Frankfurt;2012-02-13;Fortuna Dusseldorf;Ein Frankfurt;1;1;D;1.0
+429;1664;14;Ein Frankfurt;2012-02-18;Ein Frankfurt;Frankfurt FSV;6;1;H;6.0
+430;1172;14;Ein Frankfurt;2012-02-26;Paderborn;Ein Frankfurt;4;2;H;2.0
+431;1506;14;Ein Frankfurt;2012-03-04;Ein Frankfurt;Cottbus;1;0;H;1.0
+432;1174;14;Ein Frankfurt;2012-03-11;Hansa Rostock;Ein Frankfurt;1;5;A;5.0
+433;1128;14;Ein Frankfurt;2012-03-16;Ein Frankfurt;Dresden;3;0;H;3.0
+434;1166;14;Ein Frankfurt;2012-03-26;Union Berlin;Ein Frankfurt;0;4;A;4.0
+435;1350;14;Ein Frankfurt;2012-03-30;Ein Frankfurt;Bochum;3;0;H;3.0
+436;1165;14;Ein Frankfurt;2012-04-07;Duisburg;Ein Frankfurt;2;0;H;0.0
+437;1681;14;Ein Frankfurt;2012-04-11;Ein Frankfurt;Ingolstadt;1;1;D;1.0
+438;1594;14;Ein Frankfurt;2012-04-14;Ein Frankfurt;Erzgebirge Aue;4;0;H;4.0
+439;1176;14;Ein Frankfurt;2012-04-23;Aachen;Ein Frankfurt;0;3;A;3.0
+440;1432;14;Ein Frankfurt;2012-04-29;Ein Frankfurt;Munich 1860;0;2;A;0.0
+441;1168;14;Ein Frankfurt;2012-05-06;Karlsruhe;Ein Frankfurt;1;0;H;0.0
+442;1194;15;Augsburg;2011-08-06;Augsburg;Freiburg;2;2;D;2.0
+443;1633;15;Augsburg;2011-08-14;Kaiserslautern;Augsburg;1;1;D;1.0
+444;1650;15;Augsburg;2011-08-20;Augsburg;Hoffenheim;0;2;A;0.0
+445;1619;15;Augsburg;2011-08-27;Nurnberg;Augsburg;1;0;H;0.0
+446;1273;15;Augsburg;2011-09-09;Augsburg;Leverkusen;1;4;A;1.0
+447;1629;15;Augsburg;2011-09-17;Hertha;Augsburg;2;2;D;2.0
+448;1368;15;Augsburg;2011-09-24;Augsburg;Hannover;0;0;D;0.0
+449;1634;15;Augsburg;2011-10-01;Dortmund;Augsburg;4;0;H;0.0
+450;1630;15;Augsburg;2011-10-15;Mainz;Augsburg;0;1;A;1.0
+451;1342;15;Augsburg;2011-10-21;Augsburg;Werder Bremen;1;1;D;1.0
+452;1626;15;Augsburg;2011-10-30;FC Koln;Augsburg;3;0;H;0.0
+453;1106;15;Augsburg;2011-11-06;Augsburg;Bayern Munich;1;2;A;1.0
+454;1621;15;Augsburg;2011-11-20;Stuttgart;Augsburg;2;1;H;1.0
+455;1473;15;Augsburg;2011-11-26;Augsburg;Wolfsburg;2;0;H;2.0
+456;1627;15;Augsburg;2011-12-04;Schalke 04;Augsburg;3;1;H;1.0
+457;1493;15;Augsburg;2011-12-10;Augsburg;M'gladbach;1;0;H;1.0
+458;1622;15;Augsburg;2011-12-17;Hamburg;Augsburg;1;1;D;1.0
+459;1635;15;Augsburg;2012-01-21;Freiburg;Augsburg;1;0;H;0.0
+460;1228;15;Augsburg;2012-01-28;Augsburg;Kaiserslautern;2;2;D;2.0
+461;1625;15;Augsburg;2012-02-04;Hoffenheim;Augsburg;2;2;D;2.0
+462;1286;15;Augsburg;2012-02-12;Augsburg;Nurnberg;0;0;D;0.0
+463;1631;15;Augsburg;2012-02-18;Leverkusen;Augsburg;4;1;H;1.0
+464;1408;15;Augsburg;2012-02-25;Augsburg;Hertha;3;0;H;3.0
+465;1628;15;Augsburg;2012-03-03;Hannover;Augsburg;2;2;D;2.0
+466;1120;15;Augsburg;2012-03-10;Augsburg;Dortmund;0;0;D;0.0
+467;1415;15;Augsburg;2012-03-17;Augsburg;Mainz;2;1;H;2.0
+468;1620;15;Augsburg;2012-03-24;Werder Bremen;Augsburg;1;1;D;1.0
+469;1189;15;Augsburg;2012-03-31;Augsburg;FC Koln;2;1;H;2.0
+470;1623;15;Augsburg;2012-04-07;Bayern Munich;Augsburg;2;1;H;1.0
+471;1322;15;Augsburg;2012-04-10;Augsburg;Stuttgart;1;3;A;1.0
+472;1632;15;Augsburg;2012-04-14;Wolfsburg;Augsburg;1;2;A;2.0
+473;1307;15;Augsburg;2012-04-22;Augsburg;Schalke 04;1;1;D;1.0
+474;1624;15;Augsburg;2012-04-28;M'gladbach;Augsburg;0;0;D;0.0
+475;1223;15;Augsburg;2012-05-05;Augsburg;Hamburg;1;0;H;1.0
+476;1194;16;Freiburg;2011-08-06;Augsburg;Freiburg;2;2;D;2.0
+477;1417;16;Freiburg;2011-08-13;Freiburg;Mainz;1;2;A;1.0
+478;1199;16;Freiburg;2011-08-20;Werder Bremen;Freiburg;5;3;H;3.0
+479;1482;16;Freiburg;2011-08-27;Freiburg;Wolfsburg;3;0;H;3.0
+480;1197;16;Freiburg;2011-09-10;Bayern Munich;Freiburg;7;0;H;0.0
+481;1327;16;Freiburg;2011-09-16;Freiburg;Stuttgart;1;2;A;1.0
+482;1195;16;Freiburg;2011-09-24;Schalke 04;Freiburg;4;2;H;2.0
+483;1499;16;Freiburg;2011-10-01;Freiburg;M'gladbach;1;0;H;1.0
+484;1214;16;Freiburg;2011-10-16;Freiburg;Hamburg;1;2;A;1.0
+485;1202;16;Freiburg;2011-10-22;Kaiserslautern;Freiburg;1;0;H;0.0
+486;1277;16;Freiburg;2011-10-28;Freiburg;Leverkusen;0;1;A;0.0
+487;1210;16;Freiburg;2011-11-05;Nurnberg;Freiburg;1;2;A;2.0
+488;1400;16;Freiburg;2011-11-19;Freiburg;Hertha;2;2;D;2.0
+489;1203;16;Freiburg;2011-11-26;Hoffenheim;Freiburg;1;1;D;1.0
+490;1380;16;Freiburg;2011-12-03;Freiburg;Hannover;1;1;D;1.0
+491;1205;16;Freiburg;2011-12-10;FC Koln;Freiburg;4;0;H;0.0
+492;1110;16;Freiburg;2011-12-17;Freiburg;Dortmund;1;4;A;1.0
+493;1635;16;Freiburg;2012-01-21;Freiburg;Augsburg;1;0;H;1.0
+494;1209;16;Freiburg;2012-01-29;Mainz;Freiburg;3;1;H;1.0
+495;1339;16;Freiburg;2012-02-05;Freiburg;Werder Bremen;2;2;D;2.0
+496;1201;16;Freiburg;2012-02-10;Wolfsburg;Freiburg;3;2;H;2.0
+497;1096;16;Freiburg;2012-02-18;Freiburg;Bayern Munich;0;0;D;0.0
+498;1204;16;Freiburg;2012-02-25;Stuttgart;Freiburg;4;1;H;1.0
+499;1302;16;Freiburg;2012-03-03;Freiburg;Schalke 04;2;1;H;2.0
+500;1196;16;Freiburg;2012-03-10;M'gladbach;Freiburg;0;0;D;0.0
+501;1200;16;Freiburg;2012-03-17;Hamburg;Freiburg;1;3;A;3.0
+502;1243;16;Freiburg;2012-03-24;Freiburg;Kaiserslautern;2;0;H;2.0
+503;1206;16;Freiburg;2012-03-31;Leverkusen;Freiburg;0;2;A;2.0
+504;1291;16;Freiburg;2012-04-07;Freiburg;Nurnberg;2;2;D;2.0
+505;1208;16;Freiburg;2012-04-10;Hertha;Freiburg;1;2;A;2.0
+506;1651;16;Freiburg;2012-04-15;Freiburg;Hoffenheim;0;0;D;0.0
+507;1198;16;Freiburg;2012-04-22;Hannover;Freiburg;0;0;D;0.0
+508;1182;16;Freiburg;2012-04-28;Freiburg;FC Koln;4;1;H;4.0
+509;1207;16;Freiburg;2012-05-05;Dortmund;Freiburg;4;0;H;0.0
+510;1311;17;Stuttgart;2011-08-06;Stuttgart;Schalke 04;3;0;H;3.0
+511;1325;17;Stuttgart;2011-08-13;M'gladbach;Stuttgart;1;1;D;1.0
+512;1278;17;Stuttgart;2011-08-20;Stuttgart;Leverkusen;0;1;A;0.0
+513;1316;17;Stuttgart;2011-08-26;Hertha;Stuttgart;1;0;H;0.0
+514;1379;17;Stuttgart;2011-09-10;Stuttgart;Hannover;3;0;H;3.0
+515;1327;17;Stuttgart;2011-09-16;Freiburg;Stuttgart;1;2;A;2.0
+516;1224;17;Stuttgart;2011-09-23;Stuttgart;Hamburg;1;2;A;1.0
+517;1319;17;Stuttgart;2011-09-30;Kaiserslautern;Stuttgart;0;2;A;2.0
+518;1641;17;Stuttgart;2011-10-15;Stuttgart;Hoffenheim;2;0;H;2.0
+519;1320;17;Stuttgart;2011-10-22;Nurnberg;Stuttgart;2;2;D;2.0
+520;1114;17;Stuttgart;2011-10-29;Stuttgart;Dortmund;1;1;D;1.0
+521;1314;17;Stuttgart;2011-11-04;Mainz;Stuttgart;3;1;H;1.0
+522;1621;17;Stuttgart;2011-11-20;Stuttgart;Augsburg;2;1;H;2.0
+523;1329;17;Stuttgart;2011-11-27;Werder Bremen;Stuttgart;2;0;H;0.0
+524;1177;17;Stuttgart;2011-12-03;Stuttgart;FC Koln;2;2;D;2.0
+525;1093;17;Stuttgart;2011-12-11;Stuttgart;Bayern Munich;1;2;A;1.0
+526;1313;17;Stuttgart;2011-12-17;Wolfsburg;Stuttgart;1;0;H;0.0
+527;1315;17;Stuttgart;2012-01-21;Schalke 04;Stuttgart;3;1;H;1.0
+528;1496;17;Stuttgart;2012-01-29;Stuttgart;M'gladbach;0;3;A;0.0
+529;1318;17;Stuttgart;2012-02-04;Leverkusen;Stuttgart;2;2;D;2.0
+530;1406;17;Stuttgart;2012-02-11;Stuttgart;Hertha;5;0;H;5.0
+531;1326;17;Stuttgart;2012-02-19;Hannover;Stuttgart;4;2;H;2.0
+532;1204;17;Stuttgart;2012-02-25;Stuttgart;Freiburg;4;1;H;4.0
+533;1323;17;Stuttgart;2012-03-03;Hamburg;Stuttgart;0;4;A;4.0
+534;1241;17;Stuttgart;2012-03-09;Stuttgart;Kaiserslautern;0;0;D;0.0
+535;1321;17;Stuttgart;2012-03-16;Hoffenheim;Stuttgart;1;2;A;2.0
+536;1287;17;Stuttgart;2012-03-25;Stuttgart;Nurnberg;1;0;H;1.0
+537;1317;17;Stuttgart;2012-03-30;Dortmund;Stuttgart;4;4;D;4.0
+538;1423;17;Stuttgart;2012-04-07;Stuttgart;Mainz;4;1;H;4.0
+539;1322;17;Stuttgart;2012-04-10;Augsburg;Stuttgart;1;3;A;3.0
+540;1334;17;Stuttgart;2012-04-13;Stuttgart;Werder Bremen;4;1;H;4.0
+541;1328;17;Stuttgart;2012-04-21;FC Koln;Stuttgart;1;1;D;1.0
+542;1324;17;Stuttgart;2012-04-28;Bayern Munich;Stuttgart;2;0;H;0.0
+543;1474;17;Stuttgart;2012-05-05;Stuttgart;Wolfsburg;3;2;H;3.0
+544;1648;18;Hannover;2011-08-06;Hannover;Hoffenheim;2;1;H;2.0
+545;1371;18;Hannover;2011-08-13;Nurnberg;Hannover;1;2;A;2.0
+546;1404;18;Hannover;2011-08-21;Hannover;Hertha;1;1;D;1.0
+547;1427;18;Hannover;2011-08-28;Hannover;Mainz;1;1;D;1.0
+548;1379;18;Hannover;2011-09-10;Stuttgart;Hannover;3;0;H;0.0
+549;1118;18;Hannover;2011-09-18;Hannover;Dortmund;2;1;H;2.0
+550;1368;18;Hannover;2011-09-24;Augsburg;Hannover;0;0;D;0.0
+551;1331;18;Hannover;2011-10-02;Hannover;Werder Bremen;3;2;H;3.0
+552;1367;18;Hannover;2011-10-16;FC Koln;Hannover;2;0;H;0.0
+553;1101;18;Hannover;2011-10-23;Hannover;Bayern Munich;2;1;H;2.0
+554;1378;18;Hannover;2011-10-29;M'gladbach;Hannover;2;1;H;1.0
+555;1300;18;Hannover;2011-11-06;Hannover;Schalke 04;2;2;D;2.0
+556;1365;18;Hannover;2011-11-19;Wolfsburg;Hannover;4;1;H;1.0
+557;1222;18;Hannover;2011-11-26;Hannover;Hamburg;1;1;D;1.0
+558;1380;18;Hannover;2011-12-03;Freiburg;Hannover;1;1;D;1.0
+559;1275;18;Hannover;2011-12-10;Hannover;Leverkusen;0;0;D;0.0
+560;1370;18;Hannover;2011-12-18;Kaiserslautern;Hannover;1;1;D;1.0
+561;1375;18;Hannover;2012-01-21;Hoffenheim;Hannover;0;0;D;0.0
+562;1280;18;Hannover;2012-01-27;Hannover;Nurnberg;1;0;H;1.0
+563;1377;18;Hannover;2012-02-04;Hertha;Hannover;0;1;A;1.0
+564;1374;18;Hannover;2012-02-11;Mainz;Hannover;1;1;D;1.0
+565;1326;18;Hannover;2012-02-19;Hannover;Stuttgart;4;2;H;4.0
+566;1373;18;Hannover;2012-02-26;Dortmund;Hannover;3;1;H;1.0
+567;1628;18;Hannover;2012-03-03;Hannover;Augsburg;2;2;D;2.0
+568;1376;18;Hannover;2012-03-11;Werder Bremen;Hannover;3;0;H;0.0
+569;1193;18;Hannover;2012-03-18;Hannover;FC Koln;4;1;H;4.0
+570;1364;18;Hannover;2012-03-24;Bayern Munich;Hannover;2;1;H;1.0
+571;1490;18;Hannover;2012-04-01;Hannover;M'gladbach;2;1;H;2.0
+572;1369;18;Hannover;2012-04-08;Schalke 04;Hannover;3;0;H;0.0
+573;1480;18;Hannover;2012-04-11;Hannover;Wolfsburg;2;0;H;2.0
+574;1366;18;Hannover;2012-04-14;Hamburg;Hannover;1;0;H;0.0
+575;1198;18;Hannover;2012-04-22;Hannover;Freiburg;0;0;D;0.0
+576;1372;18;Hannover;2012-04-28;Leverkusen;Hannover;1;0;H;0.0
+577;1229;18;Hannover;2012-05-05;Hannover;Kaiserslautern;2;1;H;2.0
+578;1678;19;Ingolstadt;2011-07-16;St Pauli;Ingolstadt;2;0;H;0.0
+579;1596;19;Ingolstadt;2011-07-22;Ingolstadt;Erzgebirge Aue;0;0;D;0.0
+580;1684;19;Ingolstadt;2011-08-05;Fortuna Dusseldorf;Ingolstadt;4;1;H;1.0
+581;1660;19;Ingolstadt;2011-08-14;Ingolstadt;Frankfurt FSV;1;1;D;1.0
+582;1674;19;Ingolstadt;2011-08-19;Greuther Furth;Ingolstadt;3;0;H;0.0
+583;1394;19;Ingolstadt;2011-08-26;Ingolstadt;Hansa Rostock;3;1;H;3.0
+584;1677;19;Ingolstadt;2011-09-11;Union Berlin;Ingolstadt;4;1;H;1.0
+585;1132;19;Ingolstadt;2011-09-16;Ingolstadt;Dresden;4;2;H;4.0
+586;1680;19;Ingolstadt;2011-09-23;Paderborn;Ingolstadt;4;1;H;1.0
+587;1363;19;Ingolstadt;2011-10-01;Ingolstadt;Bochum;3;5;A;3.0
+588;1672;19;Ingolstadt;2011-10-15;Duisburg;Ingolstadt;3;1;H;1.0
+589;1682;19;Ingolstadt;2011-10-23;Aachen;Ingolstadt;3;1;H;1.0
+590;1169;19;Ingolstadt;2011-10-30;Ingolstadt;Ein Frankfurt;1;1;D;1.0
+591;1673;19;Ingolstadt;2011-11-04;Karlsruhe;Ingolstadt;3;2;H;2.0
+592;1447;19;Ingolstadt;2011-11-18;Ingolstadt;Munich 1860;0;1;A;0.0
+593;1671;19;Ingolstadt;2011-11-27;Cottbus;Ingolstadt;0;0;D;0.0
+594;1582;19;Ingolstadt;2011-12-02;Ingolstadt;Braunschweig;0;1;A;0.0
+595;1456;19;Ingolstadt;2011-12-11;Ingolstadt;St Pauli;1;0;H;1.0
+596;1676;19;Ingolstadt;2011-12-16;Erzgebirge Aue;Ingolstadt;1;1;D;1.0
+597;1693;19;Ingolstadt;2012-02-04;Ingolstadt;Fortuna Dusseldorf;1;1;D;1.0
+598;1675;19;Ingolstadt;2012-02-10;Frankfurt FSV;Ingolstadt;1;1;D;1.0
+599;1531;19;Ingolstadt;2012-02-19;Ingolstadt;Greuther Furth;0;0;D;0.0
+600;1685;19;Ingolstadt;2012-02-24;Hansa Rostock;Ingolstadt;1;2;A;2.0
+601;1555;19;Ingolstadt;2012-03-02;Ingolstadt;Union Berlin;3;3;D;3.0
+602;1679;19;Ingolstadt;2012-03-11;Dresden;Ingolstadt;0;0;D;0.0
+603;1618;19;Ingolstadt;2012-03-17;Ingolstadt;Paderborn;4;0;H;4.0
+604;1670;19;Ingolstadt;2012-03-23;Bochum;Ingolstadt;0;1;A;1.0
+605;1153;19;Ingolstadt;2012-04-01;Ingolstadt;Duisburg;1;1;D;1.0
+606;1547;19;Ingolstadt;2012-04-08;Ingolstadt;Aachen;3;3;D;3.0
+607;1681;19;Ingolstadt;2012-04-11;Ein Frankfurt;Ingolstadt;1;1;D;1.0
+608;1251;19;Ingolstadt;2012-04-15;Ingolstadt;Karlsruhe;2;1;H;2.0
+609;1686;19;Ingolstadt;2012-04-21;Munich 1860;Ingolstadt;4;1;H;1.0
+610;1514;19;Ingolstadt;2012-04-29;Ingolstadt;Cottbus;1;0;H;1.0
+611;1683;19;Ingolstadt;2012-05-06;Braunschweig;Ingolstadt;3;1;H;1.0
+612;1602;21;Paderborn;2011-07-17;Hansa Rostock;Paderborn;1;2;A;2.0
+613;1699;21;Paderborn;2011-07-24;Paderborn;Fortuna Dusseldorf;1;1;D;1.0
+614;1613;21;Paderborn;2011-08-05;Union Berlin;Paderborn;3;0;H;0.0
+615;1517;21;Paderborn;2011-08-13;Paderborn;Greuther Furth;0;1;A;0.0
+616;1607;21;Paderborn;2011-08-21;Dresden;Paderborn;1;2;A;2.0
+617;1608;21;Paderborn;2011-08-28;Ein Frankfurt;Paderborn;0;0;D;0.0
+618;1537;21;Paderborn;2011-09-09;Paderborn;Aachen;0;0;D;0.0
+619;1609;21;Paderborn;2011-09-18;Bochum;Paderborn;0;4;A;4.0
+620;1680;21;Paderborn;2011-09-23;Paderborn;Ingolstadt;4;1;H;4.0
+621;1603;21;Paderborn;2011-10-02;Duisburg;Paderborn;0;1;A;1.0
+622;1572;21;Paderborn;2011-10-14;Paderborn;Braunschweig;1;0;H;1.0
+623;1616;21;Paderborn;2011-10-21;Munich 1860;Paderborn;1;1;D;1.0
+624;1592;21;Paderborn;2011-10-29;Paderborn;Erzgebirge Aue;1;0;H;1.0
+625;1617;21;Paderborn;2011-11-06;Cottbus;Paderborn;0;2;A;2.0
+626;1246;21;Paderborn;2011-11-18;Paderborn;Karlsruhe;2;1;H;2.0
+627;1612;21;Paderborn;2011-11-25;Frankfurt FSV;Paderborn;2;2;D;2.0
+628;1453;21;Paderborn;2011-12-02;Paderborn;St Pauli;1;1;D;1.0
+629;1387;21;Paderborn;2011-12-09;Paderborn;Hansa Rostock;2;0;H;2.0
+630;1604;21;Paderborn;2011-12-16;Fortuna Dusseldorf;Paderborn;2;3;A;3.0
+631;1556;21;Paderborn;2012-02-03;Paderborn;Union Berlin;3;2;H;3.0
+632;1611;21;Paderborn;2012-02-12;Greuther Furth;Paderborn;5;1;H;1.0
+633;1129;21;Paderborn;2012-02-17;Paderborn;Dresden;2;2;D;2.0
+634;1172;21;Paderborn;2012-02-26;Paderborn;Ein Frankfurt;4;2;H;4.0
+635;1606;21;Paderborn;2012-03-03;Aachen;Paderborn;0;3;A;3.0
+636;1355;21;Paderborn;2012-03-09;Paderborn;Bochum;0;0;D;0.0
+637;1618;21;Paderborn;2012-03-17;Ingolstadt;Paderborn;4;0;H;0.0
+638;1157;21;Paderborn;2012-03-25;Paderborn;Duisburg;1;2;A;1.0
+639;1615;21;Paderborn;2012-03-30;Braunschweig;Paderborn;0;0;D;0.0
+640;1444;21;Paderborn;2012-04-08;Paderborn;Munich 1860;2;2;D;2.0
+641;1614;21;Paderborn;2012-04-11;Erzgebirge Aue;Paderborn;0;2;A;2.0
+642;1503;21;Paderborn;2012-04-15;Paderborn;Cottbus;3;1;H;3.0
+643;1605;21;Paderborn;2012-04-22;Karlsruhe;Paderborn;2;0;H;0.0
+644;1665;21;Paderborn;2012-04-29;Paderborn;Frankfurt FSV;1;0;H;1.0
+645;1610;21;Paderborn;2012-05-06;St Pauli;Paderborn;5;0;H;0.0
+646;1292;22;Nurnberg;2011-08-06;Hertha;Nurnberg;0;1;A;1.0
+647;1371;22;Nurnberg;2011-08-13;Nurnberg;Hannover;1;2;A;1.0
+648;1295;22;Nurnberg;2011-08-20;Dortmund;Nurnberg;2;0;H;0.0
+649;1619;22;Nurnberg;2011-08-27;Nurnberg;Augsburg;1;0;H;1.0
+650;1290;22;Nurnberg;2011-09-11;FC Koln;Nurnberg;1;2;A;2.0
+651;1340;22;Nurnberg;2011-09-17;Nurnberg;Werder Bremen;1;1;D;1.0
+652;1294;22;Nurnberg;2011-09-24;M'gladbach;Nurnberg;1;0;H;0.0
+653;1416;22;Nurnberg;2011-10-01;Nurnberg;Mainz;3;3;D;3.0
+654;1285;22;Nurnberg;2011-10-15;Wolfsburg;Nurnberg;2;1;H;1.0
+655;1320;22;Nurnberg;2011-10-22;Nurnberg;Stuttgart;2;2;D;2.0
+656;1293;22;Nurnberg;2011-10-29;Bayern Munich;Nurnberg;4;0;H;0.0
+657;1210;22;Nurnberg;2011-11-05;Nurnberg;Freiburg;1;2;A;1.0
+658;1289;22;Nurnberg;2011-11-19;Schalke 04;Nurnberg;4;0;H;0.0
+659;1240;22;Nurnberg;2011-11-26;Nurnberg;Kaiserslautern;1;0;H;1.0
+660;1288;22;Nurnberg;2011-12-04;Hamburg;Nurnberg;2;0;H;0.0
+661;1649;22;Nurnberg;2011-12-10;Nurnberg;Hoffenheim;0;2;A;0.0
+662;1284;22;Nurnberg;2011-12-17;Leverkusen;Nurnberg;0;3;A;3.0
+663;1399;22;Nurnberg;2012-01-21;Nurnberg;Hertha;2;0;H;2.0
+664;1280;22;Nurnberg;2012-01-27;Hannover;Nurnberg;1;0;H;0.0
+665;1112;22;Nurnberg;2012-02-03;Nurnberg;Dortmund;0;2;A;0.0
+666;1286;22;Nurnberg;2012-02-12;Augsburg;Nurnberg;0;0;D;0.0
+667;1185;22;Nurnberg;2012-02-18;Nurnberg;FC Koln;2;1;H;2.0
+668;1282;22;Nurnberg;2012-02-25;Werder Bremen;Nurnberg;0;1;A;1.0
+669;1495;22;Nurnberg;2012-03-04;Nurnberg;M'gladbach;1;0;H;1.0
+670;1281;22;Nurnberg;2012-03-10;Mainz;Nurnberg;2;1;H;1.0
+671;1478;22;Nurnberg;2012-03-17;Nurnberg;Wolfsburg;1;3;A;1.0
+672;1287;22;Nurnberg;2012-03-25;Stuttgart;Nurnberg;1;0;H;0.0
+673;1092;22;Nurnberg;2012-03-31;Nurnberg;Bayern Munich;0;1;A;0.0
+674;1291;22;Nurnberg;2012-04-07;Freiburg;Nurnberg;2;2;D;2.0
+675;1297;22;Nurnberg;2012-04-11;Nurnberg;Schalke 04;4;1;H;4.0
+676;1279;22;Nurnberg;2012-04-14;Kaiserslautern;Nurnberg;0;2;A;2.0
+677;1217;22;Nurnberg;2012-04-21;Nurnberg;Hamburg;1;1;D;1.0
+678;1283;22;Nurnberg;2012-04-28;Hoffenheim;Nurnberg;2;3;A;3.0
+679;1270;22;Nurnberg;2012-05-05;Nurnberg;Leverkusen;1;4;A;1.0
+680;1442;23;Braunschweig;2011-07-17;Braunschweig;Munich 1860;3;1;H;3.0
+681;1574;23;Braunschweig;2011-07-24;Aachen;Braunschweig;0;2;A;2.0
+682;1171;23;Braunschweig;2011-08-07;Braunschweig;Ein Frankfurt;0;3;A;0.0
+683;1584;23;Braunschweig;2011-08-12;Karlsruhe;Braunschweig;1;3;A;3.0
+684;1598;23;Braunschweig;2011-08-20;Braunschweig;Erzgebirge Aue;1;1;D;1.0
+685;1462;23;Braunschweig;2011-08-28;Braunschweig;St Pauli;1;0;H;1.0
+686;1579;23;Braunschweig;2011-09-09;Hansa Rostock;Braunschweig;0;0;D;0.0
+687;1515;23;Braunschweig;2011-09-17;Braunschweig;Cottbus;3;1;H;3.0
+688;1571;23;Braunschweig;2011-09-23;Frankfurt FSV;Braunschweig;1;1;D;1.0
+689;1694;23;Braunschweig;2011-10-03;Braunschweig;Fortuna Dusseldorf;1;1;D;1.0
+690;1572;23;Braunschweig;2011-10-14;Paderborn;Braunschweig;1;0;H;0.0
+691;1140;23;Braunschweig;2011-10-22;Braunschweig;Dresden;0;2;A;0.0
+692;1577;23;Braunschweig;2011-10-31;Greuther Furth;Braunschweig;1;3;A;3.0
+693;1562;23;Braunschweig;2011-11-04;Braunschweig;Union Berlin;1;2;A;1.0
+694;1568;23;Braunschweig;2011-11-18;Duisburg;Braunschweig;3;0;H;0.0
+695;1347;23;Braunschweig;2011-11-27;Braunschweig;Bochum;4;0;H;4.0
+696;1582;23;Braunschweig;2011-12-02;Ingolstadt;Braunschweig;0;1;A;1.0
+697;1578;23;Braunschweig;2011-12-09;Munich 1860;Braunschweig;3;0;H;0.0
+698;1541;23;Braunschweig;2011-12-18;Braunschweig;Aachen;1;1;D;1.0
+699;1580;23;Braunschweig;2012-02-05;Ein Frankfurt;Braunschweig;2;1;H;1.0
+700;1253;23;Braunschweig;2012-02-11;Braunschweig;Karlsruhe;0;0;D;0.0
+701;1583;23;Braunschweig;2012-02-20;Erzgebirge Aue;Braunschweig;1;1;D;1.0
+702;1575;23;Braunschweig;2012-02-26;St Pauli;Braunschweig;0;0;D;0.0
+703;1388;23;Braunschweig;2012-03-04;Braunschweig;Hansa Rostock;3;2;H;3.0
+704;1576;23;Braunschweig;2012-03-11;Cottbus;Braunschweig;1;1;D;1.0
+705;1659;23;Braunschweig;2012-03-16;Braunschweig;Frankfurt FSV;0;0;D;0.0
+706;1573;23;Braunschweig;2012-03-24;Fortuna Dusseldorf;Braunschweig;1;1;D;1.0
+707;1615;23;Braunschweig;2012-03-30;Braunschweig;Paderborn;0;0;D;0.0
+708;1570;23;Braunschweig;2012-04-07;Dresden;Braunschweig;2;2;D;2.0
+709;1520;23;Braunschweig;2012-04-10;Braunschweig;Greuther Furth;0;0;D;0.0
+710;1581;23;Braunschweig;2012-04-13;Union Berlin;Braunschweig;1;0;H;0.0
+711;1155;23;Braunschweig;2012-04-20;Braunschweig;Duisburg;0;0;D;0.0
+712;1569;23;Braunschweig;2012-04-29;Bochum;Braunschweig;2;0;H;0.0
+713;1683;23;Braunschweig;2012-05-06;Braunschweig;Ingolstadt;3;1;H;3.0
+714;1167;24;Greuther Furth;2011-07-15;Greuther Furth;Ein Frankfurt;2;3;A;2.0
+715;1525;24;Greuther Furth;2011-07-23;Union Berlin;Greuther Furth;0;4;A;4.0
+716;1130;24;Greuther Furth;2011-08-06;Greuther Furth;Dresden;1;0;H;1.0
+717;1517;24;Greuther Furth;2011-08-13;Paderborn;Greuther Furth;0;1;A;1.0
+718;1674;24;Greuther Furth;2011-08-19;Greuther Furth;Ingolstadt;3;0;H;3.0
+719;1523;24;Greuther Furth;2011-08-26;Bochum;Greuther Furth;1;4;A;4.0
+720;1152;24;Greuther Furth;2011-09-09;Greuther Furth;Duisburg;2;1;H;2.0
+721;1529;24;Greuther Furth;2011-09-18;Aachen;Greuther Furth;0;0;D;0.0
+722;1437;24;Greuther Furth;2011-09-25;Greuther Furth;Munich 1860;2;0;H;2.0
+723;1530;24;Greuther Furth;2011-10-02;Karlsruhe;Greuther Furth;2;2;D;2.0
+724;1591;24;Greuther Furth;2011-10-16;Greuther Furth;Erzgebirge Aue;2;0;H;2.0
+725;1526;24;Greuther Furth;2011-10-22;Cottbus;Greuther Furth;0;2;A;2.0
+726;1577;24;Greuther Furth;2011-10-31;Greuther Furth;Braunschweig;1;3;A;1.0
+727;1527;24;Greuther Furth;2011-11-05;St Pauli;Greuther Furth;2;2;D;2.0
+728;1655;24;Greuther Furth;2011-11-20;Greuther Furth;Frankfurt FSV;4;0;H;4.0
+729;1521;24;Greuther Furth;2011-11-28;Fortuna Dusseldorf;Greuther Furth;2;1;H;1.0
+730;1395;24;Greuther Furth;2011-12-03;Greuther Furth;Hansa Rostock;3;0;H;3.0
+731;1532;24;Greuther Furth;2011-12-12;Ein Frankfurt;Greuther Furth;0;0;D;0.0
+732;1564;24;Greuther Furth;2011-12-16;Greuther Furth;Union Berlin;5;0;H;5.0
+733;1519;24;Greuther Furth;2012-02-03;Dresden;Greuther Furth;3;1;H;1.0
+734;1611;24;Greuther Furth;2012-02-12;Greuther Furth;Paderborn;5;1;H;5.0
+735;1531;24;Greuther Furth;2012-02-19;Ingolstadt;Greuther Furth;0;0;D;0.0
+736;1361;24;Greuther Furth;2012-02-25;Greuther Furth;Bochum;6;2;H;6.0
+737;1522;24;Greuther Furth;2012-03-02;Duisburg;Greuther Furth;0;2;A;2.0
+738;1546;24;Greuther Furth;2012-03-09;Greuther Furth;Aachen;1;0;H;1.0
+739;1533;24;Greuther Furth;2012-03-17;Munich 1860;Greuther Furth;1;4;A;4.0
+740;1259;24;Greuther Furth;2012-03-24;Greuther Furth;Karlsruhe;3;0;H;3.0
+741;1524;24;Greuther Furth;2012-03-31;Erzgebirge Aue;Greuther Furth;1;1;D;1.0
+742;1509;24;Greuther Furth;2012-04-05;Greuther Furth;Cottbus;3;0;H;3.0
+743;1520;24;Greuther Furth;2012-04-10;Braunschweig;Greuther Furth;0;0;D;0.0
+744;1450;24;Greuther Furth;2012-04-13;Greuther Furth;St Pauli;2;1;H;2.0
+745;1518;24;Greuther Furth;2012-04-20;Frankfurt FSV;Greuther Furth;1;1;D;1.0
+746;1687;24;Greuther Furth;2012-04-29;Greuther Furth;Fortuna Dusseldorf;1;1;D;1.0
+747;1528;24;Greuther Furth;2012-05-06;Hansa Rostock;Greuther Furth;2;2;D;2.0
+748;1360;25;Fortuna Dusseldorf;2011-07-18;Fortuna Dusseldorf;Bochum;2;0;H;2.0
+749;1699;25;Fortuna Dusseldorf;2011-07-24;Paderborn;Fortuna Dusseldorf;1;1;D;1.0
+750;1684;25;Fortuna Dusseldorf;2011-08-05;Fortuna Dusseldorf;Ingolstadt;4;1;H;4.0
+751;1701;25;Fortuna Dusseldorf;2011-08-15;Ein Frankfurt;Fortuna Dusseldorf;1;1;D;1.0
+752;1439;25;Fortuna Dusseldorf;2011-08-19;Fortuna Dusseldorf;Munich 1860;3;1;H;3.0
+753;1702;25;Fortuna Dusseldorf;2011-08-27;Aachen;Fortuna Dusseldorf;0;0;D;0.0
+754;1255;25;Fortuna Dusseldorf;2011-09-10;Fortuna Dusseldorf;Karlsruhe;4;2;H;4.0
+755;1703;25;Fortuna Dusseldorf;2011-09-16;Erzgebirge Aue;Fortuna Dusseldorf;2;4;A;4.0
+756;1516;25;Fortuna Dusseldorf;2011-09-24;Fortuna Dusseldorf;Cottbus;4;2;H;4.0
+757;1694;25;Fortuna Dusseldorf;2011-10-03;Braunschweig;Fortuna Dusseldorf;1;1;D;1.0
+758;1688;25;Fortuna Dusseldorf;2011-10-17;St Pauli;Fortuna Dusseldorf;1;3;A;3.0
+759;1381;25;Fortuna Dusseldorf;2011-10-21;Fortuna Dusseldorf;Hansa Rostock;2;0;H;2.0
+760;1691;25;Fortuna Dusseldorf;2011-10-30;Frankfurt FSV;Fortuna Dusseldorf;2;5;A;5.0
+761;1131;25;Fortuna Dusseldorf;2011-11-04;Fortuna Dusseldorf;Dresden;2;1;H;2.0
+762;1697;25;Fortuna Dusseldorf;2011-11-19;Union Berlin;Fortuna Dusseldorf;0;0;D;0.0
+763;1521;25;Fortuna Dusseldorf;2011-11-28;Fortuna Dusseldorf;Greuther Furth;2;1;H;2.0
+764;1689;25;Fortuna Dusseldorf;2011-12-05;Duisburg;Fortuna Dusseldorf;0;2;A;2.0
+765;1700;25;Fortuna Dusseldorf;2011-12-10;Bochum;Fortuna Dusseldorf;1;1;D;1.0
+766;1604;25;Fortuna Dusseldorf;2011-12-16;Fortuna Dusseldorf;Paderborn;2;3;A;2.0
+767;1693;25;Fortuna Dusseldorf;2012-02-04;Ingolstadt;Fortuna Dusseldorf;1;1;D;1.0
+768;1170;25;Fortuna Dusseldorf;2012-02-13;Fortuna Dusseldorf;Ein Frankfurt;1;1;D;1.0
+769;1698;25;Fortuna Dusseldorf;2012-02-19;Munich 1860;Fortuna Dusseldorf;2;1;H;1.0
+770;1544;25;Fortuna Dusseldorf;2012-02-27;Fortuna Dusseldorf;Aachen;0;0;D;0.0
+771;1695;25;Fortuna Dusseldorf;2012-03-03;Karlsruhe;Fortuna Dusseldorf;0;5;A;5.0
+772;1601;25;Fortuna Dusseldorf;2012-03-10;Fortuna Dusseldorf;Erzgebirge Aue;3;1;H;3.0
+773;1696;25;Fortuna Dusseldorf;2012-03-19;Cottbus;Fortuna Dusseldorf;1;1;D;1.0
+774;1573;25;Fortuna Dusseldorf;2012-03-24;Fortuna Dusseldorf;Braunschweig;1;1;D;1.0
+775;1464;25;Fortuna Dusseldorf;2012-04-02;Fortuna Dusseldorf;St Pauli;0;0;D;0.0
+776;1692;25;Fortuna Dusseldorf;2012-04-05;Hansa Rostock;Fortuna Dusseldorf;2;1;H;1.0
+777;1669;25;Fortuna Dusseldorf;2012-04-10;Fortuna Dusseldorf;Frankfurt FSV;1;0;H;1.0
+778;1690;25;Fortuna Dusseldorf;2012-04-16;Dresden;Fortuna Dusseldorf;2;1;H;1.0
+779;1561;25;Fortuna Dusseldorf;2012-04-22;Fortuna Dusseldorf;Union Berlin;2;1;H;2.0
+780;1687;25;Fortuna Dusseldorf;2012-04-29;Greuther Furth;Fortuna Dusseldorf;1;1;D;1.0
+781;1158;25;Fortuna Dusseldorf;2012-05-06;Fortuna Dusseldorf;Duisburg;2;2;D;2.0
+782;1237;26;Kaiserslautern;2011-08-06;Werder Bremen;Kaiserslautern;2;0;H;0.0
+783;1633;26;Kaiserslautern;2011-08-14;Kaiserslautern;Augsburg;1;1;D;1.0
+784;1239;26;Kaiserslautern;2011-08-20;FC Koln;Kaiserslautern;1;1;D;1.0
+785;1104;26;Kaiserslautern;2011-08-27;Kaiserslautern;Bayern Munich;0;3;A;0.0
+786;1236;26;Kaiserslautern;2011-09-10;M'gladbach;Kaiserslautern;1;0;H;0.0
+787;1430;26;Kaiserslautern;2011-09-17;Kaiserslautern;Mainz;3;1;H;3.0
+788;1242;26;Kaiserslautern;2011-09-24;Wolfsburg;Kaiserslautern;1;0;H;0.0
+789;1319;26;Kaiserslautern;2011-09-30;Kaiserslautern;Stuttgart;0;2;A;0.0
+790;1232;26;Kaiserslautern;2011-10-15;Schalke 04;Kaiserslautern;1;2;A;2.0
+791;1202;26;Kaiserslautern;2011-10-22;Kaiserslautern;Freiburg;1;0;H;1.0
+792;1231;26;Kaiserslautern;2011-10-30;Hamburg;Kaiserslautern;1;1;D;1.0
+793;1238;26;Kaiserslautern;2011-11-05;Hoffenheim;Kaiserslautern;1;1;D;1.0
+794;1265;26;Kaiserslautern;2011-11-18;Kaiserslautern;Leverkusen;0;2;A;0.0
+795;1240;26;Kaiserslautern;2011-11-26;Nurnberg;Kaiserslautern;1;0;H;0.0
+796;1411;26;Kaiserslautern;2011-12-03;Kaiserslautern;Hertha;1;1;D;1.0
+797;1233;26;Kaiserslautern;2011-12-11;Dortmund;Kaiserslautern;1;1;D;1.0
+798;1370;26;Kaiserslautern;2011-12-18;Kaiserslautern;Hannover;1;1;D;1.0
+799;1337;26;Kaiserslautern;2012-01-21;Kaiserslautern;Werder Bremen;0;0;D;0.0
+800;1228;26;Kaiserslautern;2012-01-28;Augsburg;Kaiserslautern;2;2;D;2.0
+801;1186;26;Kaiserslautern;2012-02-05;Kaiserslautern;FC Koln;0;1;A;0.0
+802;1235;26;Kaiserslautern;2012-02-11;Bayern Munich;Kaiserslautern;2;0;H;0.0
+803;1487;26;Kaiserslautern;2012-02-18;Kaiserslautern;M'gladbach;1;2;A;1.0
+804;1230;26;Kaiserslautern;2012-02-25;Mainz;Kaiserslautern;4;0;H;0.0
+805;1467;26;Kaiserslautern;2012-03-03;Kaiserslautern;Wolfsburg;0;0;D;0.0
+806;1241;26;Kaiserslautern;2012-03-09;Stuttgart;Kaiserslautern;0;0;D;0.0
+807;1306;26;Kaiserslautern;2012-03-18;Kaiserslautern;Schalke 04;1;4;A;1.0
+808;1243;26;Kaiserslautern;2012-03-24;Freiburg;Kaiserslautern;2;0;H;0.0
+809;1215;26;Kaiserslautern;2012-03-31;Kaiserslautern;Hamburg;0;1;A;0.0
+810;1642;26;Kaiserslautern;2012-04-07;Kaiserslautern;Hoffenheim;1;2;A;1.0
+811;1234;26;Kaiserslautern;2012-04-11;Leverkusen;Kaiserslautern;3;1;H;1.0
+812;1279;26;Kaiserslautern;2012-04-14;Kaiserslautern;Nurnberg;0;2;A;0.0
+813;1244;26;Kaiserslautern;2012-04-21;Hertha;Kaiserslautern;1;2;A;2.0
+814;1125;26;Kaiserslautern;2012-04-28;Kaiserslautern;Dortmund;2;5;A;2.0
+815;1229;26;Kaiserslautern;2012-05-05;Hannover;Kaiserslautern;2;1;H;1.0
+816;1678;27;St Pauli;2011-07-16;St Pauli;Ingolstadt;2;0;H;2.0
+817;1463;27;St Pauli;2011-07-25;Ein Frankfurt;St Pauli;1;1;D;1.0
+818;1545;27;St Pauli;2011-08-05;St Pauli;Aachen;3;1;H;3.0
+819;1449;27;St Pauli;2011-08-12;Bochum;St Pauli;1;2;A;2.0
+820;1150;27;St Pauli;2011-08-22;St Pauli;Duisburg;2;1;H;2.0
+821;1462;27;St Pauli;2011-08-28;Braunschweig;St Pauli;1;0;H;0.0
+822;1448;27;St Pauli;2011-09-11;St Pauli;Munich 1860;4;2;H;4.0
+823;1458;27;St Pauli;2011-09-19;Karlsruhe;St Pauli;0;2;A;2.0
+824;1589;27;St Pauli;2011-09-23;St Pauli;Erzgebirge Aue;2;3;A;2.0
+825;1454;27;St Pauli;2011-10-01;Cottbus;St Pauli;1;4;A;4.0
+826;1688;27;St Pauli;2011-10-17;St Pauli;Fortuna Dusseldorf;1;3;A;1.0
+827;1658;27;St Pauli;2011-10-23;St Pauli;Frankfurt FSV;2;1;H;2.0
+828;1459;27;St Pauli;2011-10-28;Union Berlin;St Pauli;0;2;A;2.0
+829;1527;27;St Pauli;2011-11-05;St Pauli;Greuther Furth;2;2;D;2.0
+830;1461;27;St Pauli;2011-11-19;Hansa Rostock;St Pauli;1;3;A;3.0
+831;1134;27;St Pauli;2011-11-27;St Pauli;Dresden;3;1;H;3.0
+832;1453;27;St Pauli;2011-12-02;Paderborn;St Pauli;1;1;D;1.0
+833;1456;27;St Pauli;2011-12-11;Ingolstadt;St Pauli;1;0;H;0.0
+834;1173;27;St Pauli;2011-12-19;St Pauli;Ein Frankfurt;2;0;H;2.0
+835;1465;27;St Pauli;2012-02-04;Aachen;St Pauli;2;1;H;1.0
+836;1353;27;St Pauli;2012-02-12;St Pauli;Bochum;2;1;H;2.0
+837;1457;27;St Pauli;2012-02-17;Duisburg;St Pauli;0;1;A;1.0
+838;1575;27;St Pauli;2012-02-26;St Pauli;Braunschweig;0;0;D;0.0
+839;1452;27;St Pauli;2012-03-05;Munich 1860;St Pauli;1;1;D;1.0
+840;1256;27;St Pauli;2012-03-12;St Pauli;Karlsruhe;1;0;H;1.0
+841;1451;27;St Pauli;2012-03-18;Erzgebirge Aue;St Pauli;2;1;H;1.0
+842;1511;27;St Pauli;2012-03-25;St Pauli;Cottbus;0;0;D;0.0
+843;1464;27;St Pauli;2012-04-02;Fortuna Dusseldorf;St Pauli;0;0;D;0.0
+844;1455;27;St Pauli;2012-04-07;Frankfurt FSV;St Pauli;3;3;D;3.0
+845;1567;27;St Pauli;2012-04-10;St Pauli;Union Berlin;2;1;H;2.0
+846;1450;27;St Pauli;2012-04-13;Greuther Furth;St Pauli;2;1;H;1.0
+847;1397;27;St Pauli;2012-04-22;St Pauli;Hansa Rostock;3;0;H;3.0
+848;1460;27;St Pauli;2012-04-29;Dresden;St Pauli;1;0;H;0.0
+849;1610;27;St Pauli;2012-05-06;St Pauli;Paderborn;5;0;H;5.0
+850;1360;28;Bochum;2011-07-18;Fortuna Dusseldorf;Bochum;2;0;H;0.0
+851;1667;28;Bochum;2011-07-22;Bochum;Frankfurt FSV;1;0;H;1.0
+852;1362;28;Bochum;2011-08-08;Hansa Rostock;Bochum;0;0;D;0.0
+853;1449;28;Bochum;2011-08-12;Bochum;St Pauli;1;2;A;1.0
+854;1354;28;Bochum;2011-08-20;Union Berlin;Bochum;2;1;H;1.0
+855;1523;28;Bochum;2011-08-26;Bochum;Greuther Furth;1;4;A;1.0
+856;1349;28;Bochum;2011-09-12;Dresden;Bochum;2;1;H;1.0
+857;1609;28;Bochum;2011-09-18;Bochum;Paderborn;0;4;A;0.0
+858;1154;28;Bochum;2011-09-25;Bochum;Duisburg;2;1;H;2.0
+859;1363;28;Bochum;2011-10-01;Ingolstadt;Bochum;3;5;A;5.0
+860;1162;28;Bochum;2011-10-14;Bochum;Ein Frankfurt;0;2;A;0.0
+861;1352;28;Bochum;2011-10-21;Karlsruhe;Bochum;0;0;D;0.0
+862;1548;28;Bochum;2011-10-28;Bochum;Aachen;1;0;H;1.0
+863;1357;28;Bochum;2011-11-05;Munich 1860;Bochum;1;3;A;3.0
+864;1504;28;Bochum;2011-11-21;Bochum;Cottbus;0;1;A;0.0
+865;1347;28;Bochum;2011-11-27;Braunschweig;Bochum;4;0;H;0.0
+866;1586;28;Bochum;2011-12-04;Bochum;Erzgebirge Aue;6;0;H;6.0
+867;1700;28;Bochum;2011-12-10;Bochum;Fortuna Dusseldorf;1;1;D;1.0
+868;1351;28;Bochum;2011-12-17;Frankfurt FSV;Bochum;0;2;A;2.0
+869;1384;28;Bochum;2012-02-05;Bochum;Hansa Rostock;2;1;H;2.0
+870;1353;28;Bochum;2012-02-12;St Pauli;Bochum;2;1;H;1.0
+871;1560;28;Bochum;2012-02-18;Bochum;Union Berlin;4;2;H;4.0
+872;1361;28;Bochum;2012-02-25;Greuther Furth;Bochum;6;2;H;2.0
+873;1127;28;Bochum;2012-03-02;Bochum;Dresden;0;2;A;0.0
+874;1355;28;Bochum;2012-03-09;Paderborn;Bochum;0;0;D;0.0
+875;1358;28;Bochum;2012-03-18;Duisburg;Bochum;2;1;H;1.0
+876;1670;28;Bochum;2012-03-23;Bochum;Ingolstadt;0;1;A;0.0
+877;1350;28;Bochum;2012-03-30;Ein Frankfurt;Bochum;3;0;H;0.0
+878;1252;28;Bochum;2012-04-08;Bochum;Karlsruhe;0;0;D;0.0
+879;1348;28;Bochum;2012-04-11;Aachen;Bochum;2;0;H;0.0
+880;1434;28;Bochum;2012-04-15;Bochum;Munich 1860;2;2;D;2.0
+881;1359;28;Bochum;2012-04-20;Cottbus;Bochum;1;1;D;1.0
+882;1569;28;Bochum;2012-04-29;Bochum;Braunschweig;2;0;H;2.0
+883;1356;28;Bochum;2012-05-06;Erzgebirge Aue;Bochum;2;1;H;1.0
+884;1146;29;Karlsruhe;2011-07-17;Karlsruhe;Duisburg;3;2;H;3.0
+885;1261;29;Karlsruhe;2011-07-23;Munich 1860;Karlsruhe;2;1;H;1.0
+886;1260;29;Karlsruhe;2011-08-07;Erzgebirge Aue;Karlsruhe;0;2;A;2.0
+887;1584;29;Karlsruhe;2011-08-12;Karlsruhe;Braunschweig;1;3;A;1.0
+888;1257;29;Karlsruhe;2011-08-21;Cottbus;Karlsruhe;2;0;H;0.0
+889;1656;29;Karlsruhe;2011-08-27;Karlsruhe;Frankfurt FSV;0;4;A;0.0
+890;1255;29;Karlsruhe;2011-09-10;Fortuna Dusseldorf;Karlsruhe;4;2;H;2.0
+891;1458;29;Karlsruhe;2011-09-19;Karlsruhe;St Pauli;0;2;A;0.0
+892;1248;29;Karlsruhe;2011-09-25;Hansa Rostock;Karlsruhe;1;1;D;1.0
+893;1530;29;Karlsruhe;2011-10-02;Karlsruhe;Greuther Furth;2;2;D;2.0
+894;1245;29;Karlsruhe;2011-10-15;Union Berlin;Karlsruhe;2;0;H;0.0
+895;1352;29;Karlsruhe;2011-10-21;Karlsruhe;Bochum;0;0;D;0.0
+896;1254;29;Karlsruhe;2011-10-29;Dresden;Karlsruhe;5;1;H;1.0
+897;1673;29;Karlsruhe;2011-11-04;Karlsruhe;Ingolstadt;3;2;H;3.0
+898;1246;29;Karlsruhe;2011-11-18;Paderborn;Karlsruhe;2;1;H;1.0
+899;1549;29;Karlsruhe;2011-11-26;Karlsruhe;Aachen;0;2;A;0.0
+900;1250;29;Karlsruhe;2011-12-03;Ein Frankfurt;Karlsruhe;2;0;H;0.0
+901;1249;29;Karlsruhe;2011-12-09;Duisburg;Karlsruhe;3;1;H;1.0
+902;1441;29;Karlsruhe;2011-12-17;Karlsruhe;Munich 1860;1;3;A;1.0
+903;1599;29;Karlsruhe;2012-02-05;Karlsruhe;Erzgebirge Aue;2;1;H;2.0
+904;1253;29;Karlsruhe;2012-02-11;Braunschweig;Karlsruhe;0;0;D;0.0
+905;1510;29;Karlsruhe;2012-02-17;Karlsruhe;Cottbus;2;0;H;2.0
+906;1258;29;Karlsruhe;2012-02-26;Frankfurt FSV;Karlsruhe;2;1;H;1.0
+907;1695;29;Karlsruhe;2012-03-03;Karlsruhe;Fortuna Dusseldorf;0;5;A;0.0
+908;1256;29;Karlsruhe;2012-03-12;St Pauli;Karlsruhe;1;0;H;0.0
+909;1383;29;Karlsruhe;2012-03-18;Karlsruhe;Hansa Rostock;2;2;D;2.0
+910;1259;29;Karlsruhe;2012-03-24;Greuther Furth;Karlsruhe;3;0;H;0.0
+911;1559;29;Karlsruhe;2012-04-01;Karlsruhe;Union Berlin;2;0;H;2.0
+912;1252;29;Karlsruhe;2012-04-08;Bochum;Karlsruhe;0;0;D;0.0
+913;1139;29;Karlsruhe;2012-04-11;Karlsruhe;Dresden;2;0;H;2.0
+914;1251;29;Karlsruhe;2012-04-15;Ingolstadt;Karlsruhe;2;1;H;1.0
+915;1605;29;Karlsruhe;2012-04-22;Karlsruhe;Paderborn;2;0;H;2.0
+916;1247;29;Karlsruhe;2012-04-29;Aachen;Karlsruhe;1;0;H;0.0
+917;1168;29;Karlsruhe;2012-05-06;Karlsruhe;Ein Frankfurt;1;0;H;1.0
+918;1133;31;Cottbus;2011-07-15;Cottbus;Dresden;2;1;H;2.0
+919;1505;31;Cottbus;2011-07-22;Duisburg;Cottbus;1;2;A;2.0
+920;1433;31;Cottbus;2011-08-06;Cottbus;Munich 1860;0;5;A;0.0
+921;1507;31;Cottbus;2011-08-13;Aachen;Cottbus;0;2;A;2.0
+922;1257;31;Cottbus;2011-08-21;Cottbus;Karlsruhe;2;0;H;2.0
+923;1508;31;Cottbus;2011-08-29;Erzgebirge Aue;Cottbus;0;0;D;0.0
+924;1161;31;Cottbus;2011-09-10;Cottbus;Ein Frankfurt;3;3;D;3.0
+925;1515;31;Cottbus;2011-09-17;Braunschweig;Cottbus;3;1;H;1.0
+926;1516;31;Cottbus;2011-09-24;Fortuna Dusseldorf;Cottbus;4;2;H;2.0
+927;1454;31;Cottbus;2011-10-01;Cottbus;St Pauli;1;4;A;1.0
+928;1512;31;Cottbus;2011-10-16;Frankfurt FSV;Cottbus;0;1;A;1.0
+929;1526;31;Cottbus;2011-10-22;Cottbus;Greuther Furth;0;2;A;0.0
+930;1502;31;Cottbus;2011-10-28;Hansa Rostock;Cottbus;1;1;D;1.0
+931;1617;31;Cottbus;2011-11-06;Cottbus;Paderborn;0;2;A;0.0
+932;1504;31;Cottbus;2011-11-21;Bochum;Cottbus;0;1;A;1.0
+933;1671;31;Cottbus;2011-11-27;Cottbus;Ingolstadt;0;0;D;0.0
+934;1513;31;Cottbus;2011-12-02;Union Berlin;Cottbus;1;0;H;0.0
+935;1501;31;Cottbus;2011-12-11;Dresden;Cottbus;2;1;H;1.0
+936;1145;31;Cottbus;2011-12-18;Cottbus;Duisburg;1;1;D;1.0
+937;1500;31;Cottbus;2012-02-06;Munich 1860;Cottbus;2;0;H;0.0
+938;1542;31;Cottbus;2012-02-10;Cottbus;Aachen;1;1;D;1.0
+939;1510;31;Cottbus;2012-02-17;Karlsruhe;Cottbus;2;0;H;0.0
+940;1600;31;Cottbus;2012-02-25;Cottbus;Erzgebirge Aue;2;0;H;2.0
+941;1506;31;Cottbus;2012-03-04;Ein Frankfurt;Cottbus;1;0;H;0.0
+942;1576;31;Cottbus;2012-03-11;Cottbus;Braunschweig;1;1;D;1.0
+943;1696;31;Cottbus;2012-03-19;Cottbus;Fortuna Dusseldorf;1;1;D;1.0
+944;1511;31;Cottbus;2012-03-25;St Pauli;Cottbus;0;0;D;0.0
+945;1666;31;Cottbus;2012-04-01;Cottbus;Frankfurt FSV;1;1;D;1.0
+946;1509;31;Cottbus;2012-04-05;Greuther Furth;Cottbus;3;0;H;0.0
+947;1392;31;Cottbus;2012-04-10;Cottbus;Hansa Rostock;0;1;A;0.0
+948;1503;31;Cottbus;2012-04-15;Paderborn;Cottbus;3;1;H;1.0
+949;1359;31;Cottbus;2012-04-20;Cottbus;Bochum;1;1;D;1.0
+950;1514;31;Cottbus;2012-04-29;Ingolstadt;Cottbus;1;0;H;0.0
+951;1552;31;Cottbus;2012-05-06;Cottbus;Union Berlin;2;1;H;2.0
+952;1146;32;Duisburg;2011-07-17;Karlsruhe;Duisburg;3;2;H;2.0
+953;1505;32;Duisburg;2011-07-22;Duisburg;Cottbus;1;2;A;1.0
+954;1143;32;Duisburg;2011-08-07;Frankfurt FSV;Duisburg;0;0;D;0.0
+955;1385;32;Duisburg;2011-08-14;Duisburg;Hansa Rostock;0;0;D;0.0
+956;1150;32;Duisburg;2011-08-22;St Pauli;Duisburg;2;1;H;1.0
+957;1142;32;Duisburg;2011-08-26;Duisburg;Dresden;3;0;H;3.0
+958;1152;32;Duisburg;2011-09-09;Greuther Furth;Duisburg;2;1;H;1.0
+959;1554;32;Duisburg;2011-09-17;Duisburg;Union Berlin;1;1;D;1.0
+960;1154;32;Duisburg;2011-09-25;Bochum;Duisburg;2;1;H;1.0
+961;1603;32;Duisburg;2011-10-02;Duisburg;Paderborn;0;1;A;0.0
+962;1672;32;Duisburg;2011-10-15;Duisburg;Ingolstadt;3;1;H;3.0
+963;1151;32;Duisburg;2011-10-23;Ein Frankfurt;Duisburg;3;0;H;0.0
+964;1438;32;Duisburg;2011-10-30;Duisburg;Munich 1860;0;3;A;0.0
+965;1148;32;Duisburg;2011-11-06;Aachen;Duisburg;2;2;D;2.0
+966;1568;32;Duisburg;2011-11-18;Duisburg;Braunschweig;3;0;H;3.0
+967;1156;32;Duisburg;2011-11-25;Erzgebirge Aue;Duisburg;1;2;A;2.0
+968;1689;32;Duisburg;2011-12-05;Duisburg;Fortuna Dusseldorf;0;2;A;0.0
+969;1249;32;Duisburg;2011-12-09;Duisburg;Karlsruhe;3;1;H;3.0
+970;1145;32;Duisburg;2011-12-18;Cottbus;Duisburg;1;1;D;1.0
+971;1657;32;Duisburg;2012-02-03;Duisburg;Frankfurt FSV;1;2;A;1.0
+972;1149;32;Duisburg;2012-02-12;Hansa Rostock;Duisburg;4;2;H;2.0
+973;1457;32;Duisburg;2012-02-17;Duisburg;St Pauli;0;1;A;0.0
+974;1144;32;Duisburg;2012-02-24;Dresden;Duisburg;2;0;H;0.0
+975;1522;32;Duisburg;2012-03-02;Duisburg;Greuther Furth;0;2;A;0.0
+976;1159;32;Duisburg;2012-03-09;Union Berlin;Duisburg;1;1;D;1.0
+977;1358;32;Duisburg;2012-03-18;Duisburg;Bochum;2;1;H;2.0
+978;1157;32;Duisburg;2012-03-25;Paderborn;Duisburg;1;2;A;2.0
+979;1153;32;Duisburg;2012-04-01;Ingolstadt;Duisburg;1;1;D;1.0
+980;1165;32;Duisburg;2012-04-07;Duisburg;Ein Frankfurt;2;0;H;2.0
+981;1147;32;Duisburg;2012-04-11;Munich 1860;Duisburg;2;1;H;1.0
+982;1538;32;Duisburg;2012-04-14;Duisburg;Aachen;2;0;H;2.0
+983;1155;32;Duisburg;2012-04-20;Braunschweig;Duisburg;0;0;D;0.0
+984;1593;32;Duisburg;2012-04-29;Duisburg;Erzgebirge Aue;2;1;H;2.0
+985;1158;32;Duisburg;2012-05-06;Fortuna Dusseldorf;Duisburg;2;2;D;2.0
+986;1602;33;Hansa Rostock;2011-07-17;Hansa Rostock;Paderborn;1;2;A;1.0
+987;1390;33;Hansa Rostock;2011-07-24;Dresden;Hansa Rostock;1;1;D;1.0
+988;1362;33;Hansa Rostock;2011-08-08;Hansa Rostock;Bochum;0;0;D;0.0
+989;1385;33;Hansa Rostock;2011-08-14;Duisburg;Hansa Rostock;0;0;D;0.0
+990;1535;33;Hansa Rostock;2011-08-19;Hansa Rostock;Aachen;0;0;D;0.0
+991;1394;33;Hansa Rostock;2011-08-26;Ingolstadt;Hansa Rostock;3;1;H;1.0
+992;1579;33;Hansa Rostock;2011-09-09;Hansa Rostock;Braunschweig;0;0;D;0.0
+993;1393;33;Hansa Rostock;2011-09-16;Ein Frankfurt;Hansa Rostock;4;1;H;1.0
+994;1248;33;Hansa Rostock;2011-09-25;Hansa Rostock;Karlsruhe;1;1;D;1.0
+995;1382;33;Hansa Rostock;2011-09-30;Erzgebirge Aue;Hansa Rostock;1;0;H;0.0
+996;1436;33;Hansa Rostock;2011-10-14;Hansa Rostock;Munich 1860;2;0;H;2.0
+997;1381;33;Hansa Rostock;2011-10-21;Fortuna Dusseldorf;Hansa Rostock;2;0;H;0.0
+998;1502;33;Hansa Rostock;2011-10-28;Hansa Rostock;Cottbus;1;1;D;1.0
+999;1391;33;Hansa Rostock;2011-11-06;Frankfurt FSV;Hansa Rostock;0;0;D;0.0
+1000;1461;33;Hansa Rostock;2011-11-19;Hansa Rostock;St Pauli;1;3;A;1.0
+1001;1553;33;Hansa Rostock;2011-11-25;Hansa Rostock;Union Berlin;2;5;A;2.0
+1002;1395;33;Hansa Rostock;2011-12-03;Greuther Furth;Hansa Rostock;3;0;H;0.0
+1003;1387;33;Hansa Rostock;2011-12-09;Paderborn;Hansa Rostock;2;0;H;0.0
+1004;1126;33;Hansa Rostock;2011-12-18;Hansa Rostock;Dresden;2;2;D;2.0
+1005;1384;33;Hansa Rostock;2012-02-05;Bochum;Hansa Rostock;2;1;H;1.0
+1006;1149;33;Hansa Rostock;2012-02-12;Hansa Rostock;Duisburg;4;2;H;4.0
+1007;1386;33;Hansa Rostock;2012-02-19;Aachen;Hansa Rostock;0;0;D;0.0
+1008;1685;33;Hansa Rostock;2012-02-24;Hansa Rostock;Ingolstadt;1;2;A;1.0
+1009;1388;33;Hansa Rostock;2012-03-04;Braunschweig;Hansa Rostock;3;2;H;2.0
+1010;1174;33;Hansa Rostock;2012-03-11;Hansa Rostock;Ein Frankfurt;1;5;A;1.0
+1011;1383;33;Hansa Rostock;2012-03-18;Karlsruhe;Hansa Rostock;2;2;D;2.0
+1012;1588;33;Hansa Rostock;2012-03-25;Hansa Rostock;Erzgebirge Aue;0;1;A;0.0
+1013;1396;33;Hansa Rostock;2012-03-31;Munich 1860;Hansa Rostock;0;1;A;1.0
+1014;1692;33;Hansa Rostock;2012-04-05;Hansa Rostock;Fortuna Dusseldorf;2;1;H;2.0
+1015;1392;33;Hansa Rostock;2012-04-10;Cottbus;Hansa Rostock;0;1;A;1.0
+1016;1668;33;Hansa Rostock;2012-04-13;Hansa Rostock;Frankfurt FSV;0;5;A;0.0
+1017;1397;33;Hansa Rostock;2012-04-22;St Pauli;Hansa Rostock;3;0;H;0.0
+1018;1389;33;Hansa Rostock;2012-04-29;Union Berlin;Hansa Rostock;5;4;H;4.0
+1019;1528;33;Hansa Rostock;2012-05-06;Hansa Rostock;Greuther Furth;2;2;D;2.0
+1020;1550;34;Aachen;2011-07-16;Erzgebirge Aue;Aachen;1;0;H;0.0
+1021;1574;34;Aachen;2011-07-24;Aachen;Braunschweig;0;2;A;0.0
+1022;1545;34;Aachen;2011-08-05;St Pauli;Aachen;3;1;H;1.0
+1023;1507;34;Aachen;2011-08-13;Aachen;Cottbus;0;2;A;0.0
+1024;1535;34;Aachen;2011-08-19;Hansa Rostock;Aachen;0;0;D;0.0
+1025;1702;34;Aachen;2011-08-27;Aachen;Fortuna Dusseldorf;0;0;D;0.0
+1026;1537;34;Aachen;2011-09-09;Paderborn;Aachen;0;0;D;0.0
+1027;1529;34;Aachen;2011-09-18;Aachen;Greuther Furth;0;0;D;0.0
+1028;1543;34;Aachen;2011-09-24;Union Berlin;Aachen;2;0;H;0.0
+1029;1662;34;Aachen;2011-09-30;Aachen;Frankfurt FSV;1;3;A;1.0
+1030;1539;34;Aachen;2011-10-16;Dresden;Aachen;1;1;D;1.0
+1031;1682;34;Aachen;2011-10-23;Aachen;Ingolstadt;3;1;H;3.0
+1032;1548;34;Aachen;2011-10-28;Bochum;Aachen;1;0;H;0.0
+1033;1148;34;Aachen;2011-11-06;Aachen;Duisburg;2;2;D;2.0
+1034;1534;34;Aachen;2011-11-20;Ein Frankfurt;Aachen;4;3;H;3.0
+1035;1549;34;Aachen;2011-11-26;Karlsruhe;Aachen;0;2;A;2.0
+1036;1446;34;Aachen;2011-12-04;Aachen;Munich 1860;2;2;D;2.0
+1037;1595;34;Aachen;2011-12-11;Aachen;Erzgebirge Aue;1;1;D;1.0
+1038;1541;34;Aachen;2011-12-18;Braunschweig;Aachen;1;1;D;1.0
+1039;1465;34;Aachen;2012-02-04;Aachen;St Pauli;2;1;H;2.0
+1040;1542;34;Aachen;2012-02-10;Cottbus;Aachen;1;1;D;1.0
+1041;1386;34;Aachen;2012-02-19;Aachen;Hansa Rostock;0;0;D;0.0
+1042;1544;34;Aachen;2012-02-27;Fortuna Dusseldorf;Aachen;0;0;D;0.0
+1043;1606;34;Aachen;2012-03-03;Aachen;Paderborn;0;3;A;0.0
+1044;1546;34;Aachen;2012-03-09;Greuther Furth;Aachen;1;0;H;0.0
+1045;1557;34;Aachen;2012-03-16;Aachen;Union Berlin;1;3;A;1.0
+1046;1536;34;Aachen;2012-03-23;Frankfurt FSV;Aachen;2;1;H;1.0
+1047;1138;34;Aachen;2012-03-30;Aachen;Dresden;0;1;A;0.0
+1048;1547;34;Aachen;2012-04-08;Ingolstadt;Aachen;3;3;D;3.0
+1049;1348;34;Aachen;2012-04-11;Aachen;Bochum;2;0;H;2.0
+1050;1538;34;Aachen;2012-04-14;Duisburg;Aachen;2;0;H;0.0
+1051;1176;34;Aachen;2012-04-23;Aachen;Ein Frankfurt;0;3;A;0.0
+1052;1247;34;Aachen;2012-04-29;Aachen;Karlsruhe;1;0;H;1.0
+1053;1540;34;Aachen;2012-05-06;Munich 1860;Aachen;1;2;A;2.0
+1054;1551;35;Union Berlin;2011-07-15;Frankfurt FSV;Union Berlin;1;1;D;1.0
+1055;1525;35;Union Berlin;2011-07-23;Union Berlin;Greuther Furth;0;4;A;0.0
+1056;1613;35;Union Berlin;2011-08-05;Union Berlin;Paderborn;3;0;H;3.0
+1057;1563;35;Union Berlin;2011-08-12;Dresden;Union Berlin;4;0;H;0.0
+1058;1354;35;Union Berlin;2011-08-20;Union Berlin;Bochum;2;1;H;2.0
+1059;1566;35;Union Berlin;2011-08-28;Munich 1860;Union Berlin;3;1;H;1.0
+1060;1677;35;Union Berlin;2011-09-11;Union Berlin;Ingolstadt;4;1;H;4.0
+1061;1554;35;Union Berlin;2011-09-17;Duisburg;Union Berlin;1;1;D;1.0
+1062;1543;35;Union Berlin;2011-09-24;Union Berlin;Aachen;2;0;H;2.0
+1063;1565;35;Union Berlin;2011-09-30;Ein Frankfurt;Union Berlin;3;1;H;1.0
+1064;1245;35;Union Berlin;2011-10-15;Union Berlin;Karlsruhe;2;0;H;2.0
+1065;1558;35;Union Berlin;2011-10-23;Erzgebirge Aue;Union Berlin;1;1;D;1.0
+1066;1459;35;Union Berlin;2011-10-28;Union Berlin;St Pauli;0;2;A;0.0
+1067;1562;35;Union Berlin;2011-11-04;Braunschweig;Union Berlin;1;2;A;2.0
+1068;1697;35;Union Berlin;2011-11-19;Union Berlin;Fortuna Dusseldorf;0;0;D;0.0
+1069;1553;35;Union Berlin;2011-11-25;Hansa Rostock;Union Berlin;2;5;A;5.0
+1070;1513;35;Union Berlin;2011-12-02;Union Berlin;Cottbus;1;0;H;1.0
+1071;1661;35;Union Berlin;2011-12-10;Union Berlin;Frankfurt FSV;4;0;H;4.0
+1072;1564;35;Union Berlin;2011-12-16;Greuther Furth;Union Berlin;5;0;H;0.0
+1073;1556;35;Union Berlin;2012-02-03;Paderborn;Union Berlin;3;2;H;2.0
+1074;1136;35;Union Berlin;2012-02-11;Union Berlin;Dresden;4;0;H;4.0
+1075;1560;35;Union Berlin;2012-02-18;Bochum;Union Berlin;4;2;H;2.0
+1076;1445;35;Union Berlin;2012-02-24;Union Berlin;Munich 1860;0;1;A;0.0
+1077;1555;35;Union Berlin;2012-03-02;Ingolstadt;Union Berlin;3;3;D;3.0
+1078;1159;35;Union Berlin;2012-03-09;Union Berlin;Duisburg;1;1;D;1.0
+1079;1557;35;Union Berlin;2012-03-16;Aachen;Union Berlin;1;3;A;3.0
+1080;1166;35;Union Berlin;2012-03-26;Union Berlin;Ein Frankfurt;0;4;A;0.0
+1081;1559;35;Union Berlin;2012-04-01;Karlsruhe;Union Berlin;2;0;H;0.0
+1082;1585;35;Union Berlin;2012-04-05;Union Berlin;Erzgebirge Aue;1;0;H;1.0
+1083;1567;35;Union Berlin;2012-04-10;St Pauli;Union Berlin;2;1;H;1.0
+1084;1581;35;Union Berlin;2012-04-13;Union Berlin;Braunschweig;1;0;H;1.0
+1085;1561;35;Union Berlin;2012-04-22;Fortuna Dusseldorf;Union Berlin;2;1;H;1.0
+1086;1389;35;Union Berlin;2012-04-29;Union Berlin;Hansa Rostock;5;4;H;5.0
+1087;1552;35;Union Berlin;2012-05-06;Cottbus;Union Berlin;2;1;H;1.0
+1088;1133;37;Dresden;2011-07-15;Cottbus;Dresden;2;1;H;1.0
+1089;1390;37;Dresden;2011-07-24;Dresden;Hansa Rostock;1;1;D;1.0
+1090;1130;37;Dresden;2011-08-06;Greuther Furth;Dresden;1;0;H;0.0
+1091;1563;37;Dresden;2011-08-12;Dresden;Union Berlin;4;0;H;4.0
+1092;1607;37;Dresden;2011-08-21;Dresden;Paderborn;1;2;A;1.0
+1093;1142;37;Dresden;2011-08-26;Duisburg;Dresden;3;0;H;0.0
+1094;1349;37;Dresden;2011-09-12;Dresden;Bochum;2;1;H;2.0
+1095;1132;37;Dresden;2011-09-16;Ingolstadt;Dresden;4;2;H;2.0
+1096;1164;37;Dresden;2011-09-26;Dresden;Ein Frankfurt;1;4;A;1.0
+1097;1137;37;Dresden;2011-10-02;Munich 1860;Dresden;2;4;A;4.0
+1098;1539;37;Dresden;2011-10-16;Dresden;Aachen;1;1;D;1.0
+1099;1140;37;Dresden;2011-10-22;Braunschweig;Dresden;0;2;A;2.0
+1100;1254;37;Dresden;2011-10-29;Dresden;Karlsruhe;5;1;H;5.0
+1101;1131;37;Dresden;2011-11-04;Fortuna Dusseldorf;Dresden;2;1;H;1.0
+1102;1597;37;Dresden;2011-11-20;Dresden;Erzgebirge Aue;1;2;A;1.0
+1103;1134;37;Dresden;2011-11-27;St Pauli;Dresden;3;1;H;1.0
+1104;1653;37;Dresden;2011-12-04;Dresden;Frankfurt FSV;2;2;D;2.0
+1105;1501;37;Dresden;2011-12-11;Dresden;Cottbus;2;1;H;2.0
+1106;1126;37;Dresden;2011-12-18;Hansa Rostock;Dresden;2;2;D;2.0
+1107;1519;37;Dresden;2012-02-03;Dresden;Greuther Furth;3;1;H;3.0
+1108;1136;37;Dresden;2012-02-11;Union Berlin;Dresden;4;0;H;0.0
+1109;1129;37;Dresden;2012-02-17;Paderborn;Dresden;2;2;D;2.0
+1110;1144;37;Dresden;2012-02-24;Dresden;Duisburg;2;0;H;2.0
+1111;1127;37;Dresden;2012-03-02;Bochum;Dresden;0;2;A;2.0
+1112;1679;37;Dresden;2012-03-11;Dresden;Ingolstadt;0;0;D;0.0
+1113;1128;37;Dresden;2012-03-16;Ein Frankfurt;Dresden;3;0;H;0.0
+1114;1435;37;Dresden;2012-03-23;Dresden;Munich 1860;0;1;A;0.0
+1115;1138;37;Dresden;2012-03-30;Aachen;Dresden;0;1;A;1.0
+1116;1570;37;Dresden;2012-04-07;Dresden;Braunschweig;2;2;D;2.0
+1117;1139;37;Dresden;2012-04-11;Karlsruhe;Dresden;2;0;H;0.0
+1118;1690;37;Dresden;2012-04-16;Dresden;Fortuna Dusseldorf;2;1;H;2.0
+1119;1141;37;Dresden;2012-04-21;Erzgebirge Aue;Dresden;1;1;D;1.0
+1120;1460;37;Dresden;2012-04-29;Dresden;St Pauli;1;0;H;1.0
+1121;1135;37;Dresden;2012-05-06;Frankfurt FSV;Dresden;1;1;D;1.0
+1122;1550;39;Erzgebirge Aue;2011-07-16;Erzgebirge Aue;Aachen;1;0;H;1.0
+1123;1596;39;Erzgebirge Aue;2011-07-22;Ingolstadt;Erzgebirge Aue;0;0;D;0.0
+1124;1260;39;Erzgebirge Aue;2011-08-07;Erzgebirge Aue;Karlsruhe;0;2;A;0.0
+1125;1590;39;Erzgebirge Aue;2011-08-14;Munich 1860;Erzgebirge Aue;4;0;H;0.0
+1126;1598;39;Erzgebirge Aue;2011-08-20;Braunschweig;Erzgebirge Aue;1;1;D;1.0
+1127;1508;39;Erzgebirge Aue;2011-08-29;Erzgebirge Aue;Cottbus;0;0;D;0.0
+1128;1587;39;Erzgebirge Aue;2011-09-11;Frankfurt FSV;Erzgebirge Aue;1;1;D;1.0
+1129;1703;39;Erzgebirge Aue;2011-09-16;Erzgebirge Aue;Fortuna Dusseldorf;2;4;A;2.0
+1130;1589;39;Erzgebirge Aue;2011-09-23;St Pauli;Erzgebirge Aue;2;3;A;3.0
+1131;1382;39;Erzgebirge Aue;2011-09-30;Erzgebirge Aue;Hansa Rostock;1;0;H;1.0
+1132;1591;39;Erzgebirge Aue;2011-10-16;Greuther Furth;Erzgebirge Aue;2;0;H;0.0
+1133;1558;39;Erzgebirge Aue;2011-10-23;Erzgebirge Aue;Union Berlin;1;1;D;1.0
+1134;1592;39;Erzgebirge Aue;2011-10-29;Paderborn;Erzgebirge Aue;1;0;H;0.0
+1135;1160;39;Erzgebirge Aue;2011-11-07;Erzgebirge Aue;Ein Frankfurt;1;2;A;1.0
+1136;1597;39;Erzgebirge Aue;2011-11-20;Dresden;Erzgebirge Aue;1;2;A;2.0
+1137;1156;39;Erzgebirge Aue;2011-11-25;Erzgebirge Aue;Duisburg;1;2;A;1.0
+1138;1586;39;Erzgebirge Aue;2011-12-04;Bochum;Erzgebirge Aue;6;0;H;0.0
+1139;1595;39;Erzgebirge Aue;2011-12-11;Aachen;Erzgebirge Aue;1;1;D;1.0
+1140;1676;39;Erzgebirge Aue;2011-12-16;Erzgebirge Aue;Ingolstadt;1;1;D;1.0
+1141;1599;39;Erzgebirge Aue;2012-02-05;Karlsruhe;Erzgebirge Aue;2;1;H;1.0
+1142;1583;39;Erzgebirge Aue;2012-02-20;Erzgebirge Aue;Braunschweig;1;1;D;1.0
+1143;1600;39;Erzgebirge Aue;2012-02-25;Cottbus;Erzgebirge Aue;2;0;H;0.0
+1144;1663;39;Erzgebirge Aue;2012-03-04;Erzgebirge Aue;Frankfurt FSV;4;3;H;4.0
+1145;1601;39;Erzgebirge Aue;2012-03-10;Fortuna Dusseldorf;Erzgebirge Aue;3;1;H;1.0
+1146;1440;39;Erzgebirge Aue;2012-03-14;Erzgebirge Aue;Munich 1860;0;0;D;0.0
+1147;1451;39;Erzgebirge Aue;2012-03-18;Erzgebirge Aue;St Pauli;2;1;H;2.0
+1148;1588;39;Erzgebirge Aue;2012-03-25;Hansa Rostock;Erzgebirge Aue;0;1;A;1.0
+1149;1524;39;Erzgebirge Aue;2012-03-31;Erzgebirge Aue;Greuther Furth;1;1;D;1.0
+1150;1585;39;Erzgebirge Aue;2012-04-05;Union Berlin;Erzgebirge Aue;1;0;H;0.0
+1151;1614;39;Erzgebirge Aue;2012-04-11;Erzgebirge Aue;Paderborn;0;2;A;0.0
+1152;1594;39;Erzgebirge Aue;2012-04-14;Ein Frankfurt;Erzgebirge Aue;4;0;H;0.0
+1153;1141;39;Erzgebirge Aue;2012-04-21;Erzgebirge Aue;Dresden;1;1;D;1.0
+1154;1593;39;Erzgebirge Aue;2012-04-29;Duisburg;Erzgebirge Aue;2;1;H;1.0
+1155;1356;39;Erzgebirge Aue;2012-05-06;Erzgebirge Aue;Bochum;2;1;H;2.0
+1156;1442;42;Munich 1860;2011-07-17;Braunschweig;Munich 1860;3;1;H;1.0
+1157;1261;42;Munich 1860;2011-07-23;Munich 1860;Karlsruhe;2;1;H;2.0
+1158;1433;42;Munich 1860;2011-08-06;Cottbus;Munich 1860;0;5;A;5.0
+1159;1590;42;Munich 1860;2011-08-14;Munich 1860;Erzgebirge Aue;4;0;H;4.0
+1160;1439;42;Munich 1860;2011-08-19;Fortuna Dusseldorf;Munich 1860;3;1;H;1.0
+1161;1566;42;Munich 1860;2011-08-28;Munich 1860;Union Berlin;3;1;H;3.0
+1162;1448;42;Munich 1860;2011-09-11;St Pauli;Munich 1860;4;2;H;2.0
+1163;1654;42;Munich 1860;2011-09-18;Munich 1860;Frankfurt FSV;4;0;H;4.0
+1164;1437;42;Munich 1860;2011-09-25;Greuther Furth;Munich 1860;2;0;H;0.0
+1165;1137;42;Munich 1860;2011-10-02;Munich 1860;Dresden;2;4;A;2.0
+1166;1436;42;Munich 1860;2011-10-14;Hansa Rostock;Munich 1860;2;0;H;0.0
+1167;1616;42;Munich 1860;2011-10-21;Munich 1860;Paderborn;1;1;D;1.0
+1168;1438;42;Munich 1860;2011-10-30;Duisburg;Munich 1860;0;3;A;3.0
+1169;1357;42;Munich 1860;2011-11-05;Munich 1860;Bochum;1;3;A;1.0
+1170;1447;42;Munich 1860;2011-11-18;Ingolstadt;Munich 1860;0;1;A;1.0
+1171;1175;42;Munich 1860;2011-11-26;Munich 1860;Ein Frankfurt;2;1;H;2.0
+1172;1446;42;Munich 1860;2011-12-04;Aachen;Munich 1860;2;2;D;2.0
+1173;1578;42;Munich 1860;2011-12-09;Munich 1860;Braunschweig;3;0;H;3.0
+1174;1441;42;Munich 1860;2011-12-17;Karlsruhe;Munich 1860;1;3;A;3.0
+1175;1500;42;Munich 1860;2012-02-06;Munich 1860;Cottbus;2;0;H;2.0
+1176;1698;42;Munich 1860;2012-02-19;Munich 1860;Fortuna Dusseldorf;2;1;H;2.0
+1177;1445;42;Munich 1860;2012-02-24;Union Berlin;Munich 1860;0;1;A;1.0
+1178;1452;42;Munich 1860;2012-03-05;Munich 1860;St Pauli;1;1;D;1.0
+1179;1443;42;Munich 1860;2012-03-10;Frankfurt FSV;Munich 1860;3;1;H;1.0
+1180;1440;42;Munich 1860;2012-03-14;Erzgebirge Aue;Munich 1860;0;0;D;0.0
+1181;1533;42;Munich 1860;2012-03-17;Munich 1860;Greuther Furth;1;4;A;1.0
+1182;1435;42;Munich 1860;2012-03-23;Dresden;Munich 1860;0;1;A;1.0
+1183;1396;42;Munich 1860;2012-03-31;Munich 1860;Hansa Rostock;0;1;A;0.0
+1184;1444;42;Munich 1860;2012-04-08;Paderborn;Munich 1860;2;2;D;2.0
+1185;1147;42;Munich 1860;2012-04-11;Munich 1860;Duisburg;2;1;H;2.0
+1186;1434;42;Munich 1860;2012-04-15;Bochum;Munich 1860;2;2;D;2.0
+1187;1686;42;Munich 1860;2012-04-21;Munich 1860;Ingolstadt;4;1;H;4.0
+1188;1432;42;Munich 1860;2012-04-29;Ein Frankfurt;Munich 1860;0;2;A;2.0
+1189;1540;42;Munich 1860;2012-05-06;Munich 1860;Aachen;1;2;A;1.0
+1190;1551;44;Frankfurt FSV;2011-07-15;Frankfurt FSV;Union Berlin;1;1;D;1.0
+1191;1667;44;Frankfurt FSV;2011-07-22;Bochum;Frankfurt FSV;1;0;H;0.0
+1192;1143;44;Frankfurt FSV;2011-08-07;Frankfurt FSV;Duisburg;0;0;D;0.0
+1193;1660;44;Frankfurt FSV;2011-08-14;Ingolstadt;Frankfurt FSV;1;1;D;1.0
+1194;1163;44;Frankfurt FSV;2011-08-21;Frankfurt FSV;Ein Frankfurt;0;4;A;0.0
+1195;1656;44;Frankfurt FSV;2011-08-27;Karlsruhe;Frankfurt FSV;0;4;A;4.0
+1196;1587;44;Frankfurt FSV;2011-09-11;Frankfurt FSV;Erzgebirge Aue;1;1;D;1.0
+1197;1654;44;Frankfurt FSV;2011-09-18;Munich 1860;Frankfurt FSV;4;0;H;0.0
+1198;1571;44;Frankfurt FSV;2011-09-23;Frankfurt FSV;Braunschweig;1;1;D;1.0
+1199;1662;44;Frankfurt FSV;2011-09-30;Aachen;Frankfurt FSV;1;3;A;3.0
+1200;1512;44;Frankfurt FSV;2011-10-16;Frankfurt FSV;Cottbus;0;1;A;0.0
+1201;1658;44;Frankfurt FSV;2011-10-23;St Pauli;Frankfurt FSV;2;1;H;1.0
+1202;1691;44;Frankfurt FSV;2011-10-30;Frankfurt FSV;Fortuna Dusseldorf;2;5;A;2.0
+1203;1391;44;Frankfurt FSV;2011-11-06;Frankfurt FSV;Hansa Rostock;0;0;D;0.0
+1204;1655;44;Frankfurt FSV;2011-11-20;Greuther Furth;Frankfurt FSV;4;0;H;0.0
+1205;1612;44;Frankfurt FSV;2011-11-25;Frankfurt FSV;Paderborn;2;2;D;2.0
+1206;1653;44;Frankfurt FSV;2011-12-04;Dresden;Frankfurt FSV;2;2;D;2.0
+1207;1661;44;Frankfurt FSV;2011-12-10;Union Berlin;Frankfurt FSV;4;0;H;0.0
+1208;1351;44;Frankfurt FSV;2011-12-17;Frankfurt FSV;Bochum;0;2;A;0.0
+1209;1657;44;Frankfurt FSV;2012-02-03;Duisburg;Frankfurt FSV;1;2;A;2.0
+1210;1675;44;Frankfurt FSV;2012-02-10;Frankfurt FSV;Ingolstadt;1;1;D;1.0
+1211;1664;44;Frankfurt FSV;2012-02-18;Ein Frankfurt;Frankfurt FSV;6;1;H;1.0
+1212;1258;44;Frankfurt FSV;2012-02-26;Frankfurt FSV;Karlsruhe;2;1;H;2.0
+1213;1663;44;Frankfurt FSV;2012-03-04;Erzgebirge Aue;Frankfurt FSV;4;3;H;3.0
+1214;1443;44;Frankfurt FSV;2012-03-10;Frankfurt FSV;Munich 1860;3;1;H;3.0
+1215;1659;44;Frankfurt FSV;2012-03-16;Braunschweig;Frankfurt FSV;0;0;D;0.0
+1216;1536;44;Frankfurt FSV;2012-03-23;Frankfurt FSV;Aachen;2;1;H;2.0
+1217;1666;44;Frankfurt FSV;2012-04-01;Cottbus;Frankfurt FSV;1;1;D;1.0
+1218;1455;44;Frankfurt FSV;2012-04-07;Frankfurt FSV;St Pauli;3;3;D;3.0
+1219;1669;44;Frankfurt FSV;2012-04-10;Fortuna Dusseldorf;Frankfurt FSV;1;0;H;0.0
+1220;1668;44;Frankfurt FSV;2012-04-13;Hansa Rostock;Frankfurt FSV;0;5;A;5.0
+1221;1518;44;Frankfurt FSV;2012-04-20;Frankfurt FSV;Greuther Furth;1;1;D;1.0
+1222;1665;44;Frankfurt FSV;2012-04-29;Paderborn;Frankfurt FSV;1;0;H;0.0
+1223;1135;44;Frankfurt FSV;2012-05-06;Frankfurt FSV;Dresden;1;1;D;1.0
